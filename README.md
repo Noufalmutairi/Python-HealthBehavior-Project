@@ -5,7 +5,7 @@ This study analyzes health behavior using participant data, including key factor
 
 ## Dataset
 The dataset used in this analysis is `HealthB_data.csv`, which contains information about health behaviors, demographics, and related factors.
-Note:this dataset is synthetic , just for practising Analysis skills.
+Note: this dataset is synthetic , just for practising Analysis skills.
 
 ## Technologies Used
 - Pandas

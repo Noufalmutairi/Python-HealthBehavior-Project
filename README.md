@@ -23,4 +23,4 @@ Note: this dataset is synthetic , just for practising Analysis skills.
 Read the article for a deeper understanding: [Health Behavior Dataset Analysis using Python](https://www.linkedin.com/pulse/health-behavior-dataset-analysis-using-python-nouf-almutairi-p1moe/)
 
 ## Contact Information
-For contact [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/)
+Feel free to contact [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/)

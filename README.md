@@ -1,7 +1,7 @@
 # Health Behavior Dataset Analysis Project
 
 ## Overview
-This study analyzes health behavior using participant data, including key factors like age, gender, habits, and health status. The goal is to uncover patterns in how people make health-related decisions.
+This study analyzes health behavior using participant data, including key factors like age, gender, habits, and health status. This analysis focuses on uncovering how habits and choices shape our health outcomes.
 
 ## Dataset
 The dataset used in this analysis is `HealthB_data.csv`, which contains information about health behaviors, demographics, and related factors.

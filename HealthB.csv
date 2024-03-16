@@ -1,0 +1,1001 @@
+Participant ID;Age;Gender;Education Level;Smoking Status;Alcohol Consumption;Physical Activity;Dietary Habits;Sleep Duration;Stress Level;Healthcare Utilization;Chronic Disease Status
+775R;59;Male;Master;Occasional Smoker;Occasional;Low;Healthy;6.5;Low;High;Yes
+281C;25;Female;Bachelor;Occasional Smoker;Regular;Moderate;Moderate;4.5;Moderate;Moderate;No
+866M;46;Female;Master;Non-Smoker;Occasional;High;Moderate;6.5;High;High;Yes
+41O;63;Female;Bachelor;Regular Smoker;Occasional;High;Moderate;8.7;Moderate;Low;No
+815M;44;Female;Bachelor;Regular Smoker;Regular;Moderate;Moderate;8.6;Low;Moderate;Yes
+824S;31;Male;Bachelor;Regular Smoker;Never;Moderate;Moderate;8.2;Low;High;No
+912H;70;Male;High School;Regular Smoker;Never;Low;Unhealthy;5.1;Moderate;Moderate;No
+419B;73;Male;Bachelor;Regular Smoker;Regular;High;Unhealthy;4.9;Moderate;High;Yes
+214M;76;Male;Master;Regular Smoker;Regular;Low;Healthy;7.2;Moderate;Low;No
+217X;68;Male;Bachelor;Regular Smoker;Regular;Low;Moderate;5.6;High;High;No
+536M;66;Female;High School;Occasional Smoker;Regular;Low;Healthy;6.8;Low;High;No
+663T;44;Female;Master;Non-Smoker;Regular;Low;Healthy;7.8;Low;Moderate;Yes
+115R;83;Female;High School;Occasional Smoker;Regular;Low;Unhealthy;8;High;Moderate;No
+338M;71;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;8;Low;High;Yes
+762T;63;Female;High School;Regular Smoker;Regular;Low;Moderate;8.9;Low;Moderate;Yes
+846H;63;Male;High School;Regular Smoker;Occasional;High;Unhealthy;6.8;Moderate;High;Yes
+75U;63;Male;Bachelor;Regular Smoker;Never;High;Unhealthy;5.5;High;High;Yes
+953O;64;Female;High School;Regular Smoker;Regular;Low;Moderate;6.2;Low;Moderate;No
+834M;29;Male;High School;Non-Smoker;Never;Low;Healthy;5.9;High;Moderate;No
+808Y;70;Female;Master;Regular Smoker;Never;Moderate;Unhealthy;7.3;High;High;No
+586I;48;Female;Master;Regular Smoker;Regular;Moderate;Healthy;4.5;High;High;No
+332S;77;Female;Bachelor;Occasional Smoker;Never;Moderate;Moderate;8.9;Moderate;Low;Yes
+624T;43;Male;High School;Occasional Smoker;Occasional;Low;Healthy;6.2;High;Moderate;No
+976D;51;Female;High School;Regular Smoker;Occasional;High;Moderate;8.7;Moderate;Moderate;No
+728L;40;Female;High School;Regular Smoker;Regular;Low;Moderate;7.5;High;Low;No
+924Q;43;Male;High School;Occasional Smoker;Regular;Moderate;Moderate;7.2;Low;Low;Yes
+473V;37;Male;Master;Non-Smoker;Occasional;Moderate;Unhealthy;8;High;High;No
+878Q;31;Male;Master;Regular Smoker;Regular;Moderate;Moderate;8.1;High;Moderate;No
+89B;23;Male;High School;Occasional Smoker;Occasional;Moderate;Moderate;4.9;Moderate;Low;No
+692U;36;Female;High School;Occasional Smoker;Occasional;Moderate;Moderate;6.6;Low;High;No
+267R;80;Male;Bachelor;Non-Smoker;Occasional;High;Moderate;5.8;Low;Low;No
+760Q;41;Male;High School;Occasional Smoker;Regular;Moderate;Healthy;4.7;Moderate;Moderate;No
+644F;31;Male;Master;Regular Smoker;Occasional;Moderate;Unhealthy;6.3;Moderate;High;No
+952A;50;Male;High School;Occasional Smoker;Never;Low;Healthy;9;Moderate;Low;No
+36N;42;Female;Master;Regular Smoker;Occasional;High;Healthy;7;Low;High;No
+571R;26;Male;High School;Non-Smoker;Never;Low;Healthy;8.4;Moderate;Low;Yes
+646A;49;Female;Bachelor;Regular Smoker;Occasional;Low;Healthy;8.4;Moderate;High;No
+464V;77;Female;Master;Non-Smoker;Never;High;Moderate;6.9;Low;Moderate;Yes
+474V;31;Female;Bachelor;Regular Smoker;Regular;Low;Healthy;7.5;High;Moderate;Yes
+447I;58;Female;Master;Regular Smoker;Occasional;Low;Unhealthy;7.7;High;High;No
+574N;55;Male;High School;Non-Smoker;Occasional;Low;Moderate;8.8;Low;High;Yes
+908C;70;Female;Master;Occasional Smoker;Never;Moderate;Healthy;7.6;Moderate;High;Yes
+310G;57;Female;Bachelor;Non-Smoker;Regular;High;Moderate;8.9;Moderate;High;Yes
+998Q;36;Female;Master;Regular Smoker;Never;Low;Unhealthy;7.3;Moderate;Moderate;Yes
+940D;71;Male;Bachelor;Regular Smoker;Occasional;Low;Moderate;7.7;Low;High;Yes
+740A;80;Male;High School;Regular Smoker;Occasional;High;Unhealthy;5.2;Low;Moderate;Yes
+294X;41;Male;Bachelor;Non-Smoker;Occasional;Moderate;Moderate;8.1;Moderate;Moderate;No
+405N;65;Male;High School;Regular Smoker;Occasional;High;Moderate;5.1;High;Moderate;Yes
+350Z;63;Female;Master;Occasional Smoker;Never;Moderate;Healthy;8.7;Low;High;No
+456U;57;Female;Bachelor;Non-Smoker;Occasional;Low;Moderate;7.4;Moderate;Moderate;Yes
+186P;39;Female;Master;Regular Smoker;Never;High;Moderate;6;Moderate;Moderate;No
+133R;81;Female;Master;Occasional Smoker;Occasional;Low;Unhealthy;5.7;High;High;Yes
+802K;59;Female;Bachelor;Regular Smoker;Never;High;Healthy;6.1;High;High;Yes
+605M;48;Female;Bachelor;Non-Smoker;Occasional;Low;Healthy;8.1;High;Moderate;No
+979E;78;Male;High School;Occasional Smoker;Regular;Moderate;Healthy;4.5;High;Low;No
+395N;45;Female;High School;Non-Smoker;Never;Low;Moderate;7.2;Low;High;Yes
+475Q;56;Male;Bachelor;Occasional Smoker;Occasional;Low;Unhealthy;6.2;High;Low;Yes
+721J;25;Male;Bachelor;Occasional Smoker;Regular;Moderate;Unhealthy;7.2;High;High;Yes
+612J;37;Female;High School;Occasional Smoker;Never;High;Moderate;5.9;Low;High;No
+700K;33;Female;Bachelor;Non-Smoker;Never;Low;Healthy;9;Low;High;No
+302W;20;Female;Bachelor;Regular Smoker;Never;Moderate;Healthy;8.9;Low;High;No
+497Q;43;Female;Master;Non-Smoker;Regular;High;Healthy;5.9;High;High;No
+572X;59;Female;Bachelor;Occasional Smoker;Never;Low;Healthy;8.8;High;High;Yes
+738Q;36;Male;Master;Regular Smoker;Never;Moderate;Healthy;7.1;High;High;Yes
+384M;22;Male;Master;Occasional Smoker;Occasional;High;Moderate;5.1;Moderate;Low;No
+667D;69;Female;High School;Non-Smoker;Regular;Moderate;Moderate;6.8;High;Low;No
+285V;58;Male;High School;Regular Smoker;Never;High;Moderate;7;Moderate;Moderate;No
+389J;66;Male;Master;Non-Smoker;Regular;Low;Healthy;4.5;Moderate;High;No
+143N;50;Female;High School;Occasional Smoker;Never;Low;Healthy;9;High;Moderate;Yes
+572E;29;Female;Master;Occasional Smoker;Regular;High;Moderate;5.4;High;High;No
+856C;23;Female;Master;Occasional Smoker;Regular;High;Healthy;5.5;Moderate;Low;Yes
+575W;80;Female;Bachelor;Regular Smoker;Never;High;Moderate;4.9;Moderate;Low;Yes
+880E;42;Male;Master;Regular Smoker;Occasional;Moderate;Moderate;7.9;High;Low;Yes
+191P;22;Female;High School;Regular Smoker;Occasional;Low;Unhealthy;6.8;High;Moderate;No
+324G;24;Male;Master;Non-Smoker;Regular;Low;Healthy;6.8;Moderate;High;Yes
+151T;29;Male;High School;Non-Smoker;Occasional;Moderate;Moderate;8.7;Moderate;Moderate;Yes
+344Z;79;Male;Master;Non-Smoker;Never;High;Healthy;6.1;Low;High;No
+372W;31;Female;Bachelor;Occasional Smoker;Regular;Moderate;Healthy;6.8;High;Low;No
+678Y;29;Male;High School;Occasional Smoker;Regular;Low;Healthy;6.5;High;High;Yes
+926Y;77;Male;High School;Occasional Smoker;Never;Low;Unhealthy;4.6;Low;High;No
+595Z;66;Male;Master;Occasional Smoker;Regular;Moderate;Unhealthy;7;Low;Moderate;No
+865L;29;Female;High School;Regular Smoker;Regular;Moderate;Unhealthy;8.8;High;High;No
+401Z;66;Female;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;9;High;High;No
+635C;21;Female;Master;Non-Smoker;Occasional;High;Moderate;5.3;Low;Moderate;No
+440P;33;Female;Master;Non-Smoker;Regular;Moderate;Moderate;8.6;Low;High;No
+780J;20;Female;Bachelor;Regular Smoker;Regular;Low;Unhealthy;7.6;Moderate;Low;No
+890L;47;Male;Bachelor;Regular Smoker;Occasional;Moderate;Moderate;7.2;Low;Moderate;Yes
+390E;58;Male;High School;Regular Smoker;Regular;Low;Unhealthy;4.9;Low;Low;Yes
+211O;45;Female;High School;Occasional Smoker;Occasional;Low;Moderate;6.5;Low;Moderate;Yes
+289K;49;Female;Master;Non-Smoker;Occasional;High;Healthy;8.4;Moderate;High;No
+449S;57;Female;Master;Non-Smoker;Never;Moderate;Moderate;8.1;High;Moderate;No
+218S;82;Male;Bachelor;Occasional Smoker;Never;Moderate;Healthy;7.9;High;Moderate;No
+346G;69;Female;Bachelor;Regular Smoker;Regular;High;Healthy;7.5;High;High;Yes
+388S;58;Male;Bachelor;Regular Smoker;Never;Low;Unhealthy;5.7;High;Moderate;No
+720N;76;Female;Master;Non-Smoker;Regular;Low;Moderate;5.9;Low;Low;No
+113K;67;Female;Bachelor;Non-Smoker;Never;Moderate;Moderate;8.6;Moderate;Low;No
+799C;33;Male;High School;Occasional Smoker;Regular;Low;Moderate;7.7;Moderate;Low;Yes
+420C;77;Female;High School;Regular Smoker;Regular;High;Unhealthy;8.2;High;Low;No
+774M;38;Male;Master;Occasional Smoker;Never;Low;Healthy;6.6;Low;High;No
+985Y;44;Male;High School;Occasional Smoker;Never;Low;Moderate;8.7;High;High;No
+425E;44;Male;Master;Regular Smoker;Never;High;Unhealthy;7;Low;High;No
+440Y;55;Female;Bachelor;Occasional Smoker;Never;Moderate;Unhealthy;5.2;High;High;No
+39K;50;Female;High School;Non-Smoker;Regular;Moderate;Moderate;7;Low;Low;No
+946T;33;Male;High School;Regular Smoker;Occasional;High;Healthy;8.8;Moderate;Moderate;Yes
+477I;38;Male;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;5.3;Low;High;No
+877D;78;Female;High School;Occasional Smoker;Never;Low;Healthy;5.7;Low;Moderate;Yes
+348I;32;Male;Master;Occasional Smoker;Never;Low;Unhealthy;5.7;Moderate;High;Yes
+227B;44;Female;High School;Regular Smoker;Regular;Low;Unhealthy;7.5;Low;Low;No
+175K;25;Male;Bachelor;Non-Smoker;Regular;Moderate;Moderate;4.9;Moderate;Moderate;No
+150F;46;Male;Bachelor;Occasional Smoker;Occasional;Low;Moderate;6.6;Low;Low;Yes
+522M;35;Female;High School;Regular Smoker;Never;Low;Unhealthy;6.3;High;Low;No
+726I;85;Male;Bachelor;Regular Smoker;Never;High;Healthy;6.1;High;High;Yes
+457T;22;Male;Bachelor;Regular Smoker;Regular;Low;Moderate;6.6;Moderate;Low;No
+227E;20;Female;Master;Regular Smoker;Never;High;Unhealthy;8;Moderate;High;Yes
+181Q;56;Male;Master;Non-Smoker;Occasional;Moderate;Healthy;9;High;Moderate;No
+177Z;43;Male;Master;Regular Smoker;Occasional;High;Healthy;6.9;Low;Moderate;Yes
+485U;30;Female;Master;Non-Smoker;Regular;Low;Healthy;5.3;High;Low;Yes
+474C;58;Male;High School;Regular Smoker;Never;Low;Moderate;5.6;High;High;Yes
+11U;40;Male;Master;Occasional Smoker;Never;High;Unhealthy;7;Low;Moderate;No
+591S;53;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;6.1;Low;Moderate;Yes
+105P;81;Female;High School;Regular Smoker;Occasional;Moderate;Healthy;7.7;Low;High;Yes
+688C;68;Male;Bachelor;Occasional Smoker;Never;Low;Healthy;7.8;Moderate;Low;No
+698W;71;Female;Master;Non-Smoker;Occasional;High;Healthy;6.1;Moderate;Moderate;Yes
+845S;30;Female;Master;Regular Smoker;Regular;Moderate;Unhealthy;5.7;Moderate;Low;No
+915O;21;Male;Bachelor;Occasional Smoker;Regular;Low;Moderate;8.9;High;High;Yes
+131I;27;Male;High School;Occasional Smoker;Occasional;High;Unhealthy;5.7;Low;Low;Yes
+185Y;57;Female;Master;Non-Smoker;Occasional;Low;Moderate;7.5;Moderate;Moderate;No
+115Q;78;Female;High School;Occasional Smoker;Occasional;Low;Moderate;7.3;High;High;No
+372V;31;Female;Master;Regular Smoker;Occasional;Moderate;Unhealthy;6.3;Moderate;High;Yes
+883X;66;Male;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;6.2;High;Moderate;Yes
+324H;83;Female;Bachelor;Regular Smoker;Regular;Low;Moderate;7.1;Moderate;Moderate;No
+132M;55;Male;High School;Non-Smoker;Occasional;High;Unhealthy;5.5;Moderate;Low;Yes
+373M;22;Male;Bachelor;Non-Smoker;Occasional;Low;Moderate;6.5;Low;Low;Yes
+191O;51;Male;Bachelor;Regular Smoker;Never;High;Unhealthy;5.6;High;Moderate;No
+371J;26;Female;High School;Occasional Smoker;Regular;Moderate;Unhealthy;5.7;High;Low;Yes
+470X;49;Female;Bachelor;Non-Smoker;Occasional;Low;Unhealthy;5.8;Low;Moderate;No
+595O;73;Male;High School;Non-Smoker;Never;Moderate;Healthy;5.6;High;Moderate;Yes
+370A;69;Female;Master;Regular Smoker;Regular;Moderate;Healthy;4.5;Low;Low;No
+778U;35;Male;High School;Occasional Smoker;Regular;Moderate;Unhealthy;5.5;Low;Low;Yes
+1K;72;Male;Bachelor;Non-Smoker;Regular;Moderate;Healthy;4.8;Low;High;Yes
+820Z;81;Male;Master;Regular Smoker;Regular;Moderate;Healthy;4.7;High;Low;Yes
+585J;76;Female;Master;Non-Smoker;Regular;High;Unhealthy;7;Moderate;Low;Yes
+596A;73;Female;High School;Non-Smoker;Regular;Low;Unhealthy;6.4;Moderate;Moderate;Yes
+561R;73;Male;Bachelor;Non-Smoker;Never;Moderate;Healthy;6.6;Low;High;No
+743O;76;Male;Bachelor;Non-Smoker;Occasional;High;Moderate;9;High;Low;Yes
+285E;70;Male;Master;Non-Smoker;Never;High;Moderate;5.8;High;Low;Yes
+896B;84;Female;Master;Occasional Smoker;Regular;Low;Healthy;6.9;High;Low;Yes
+376E;27;Male;Bachelor;Regular Smoker;Occasional;High;Unhealthy;6.4;Low;High;Yes
+161M;30;Female;High School;Occasional Smoker;Occasional;Low;Healthy;8.1;Moderate;High;Yes
+540T;25;Male;Master;Occasional Smoker;Never;High;Healthy;5.9;Moderate;Low;Yes
+724Y;45;Male;High School;Occasional Smoker;Regular;Low;Healthy;8.2;High;Moderate;No
+412E;54;Female;Bachelor;Occasional Smoker;Regular;High;Unhealthy;5.6;High;Low;No
+855W;56;Male;High School;Occasional Smoker;Occasional;Moderate;Healthy;6.3;High;Moderate;Yes
+909E;78;Female;High School;Occasional Smoker;Occasional;Moderate;Moderate;8.3;Moderate;Low;No
+286G;33;Female;High School;Occasional Smoker;Occasional;Moderate;Moderate;4.6;High;High;Yes
+859O;66;Male;Master;Non-Smoker;Occasional;Low;Healthy;5.2;Low;Low;Yes
+560M;75;Female;High School;Non-Smoker;Regular;High;Moderate;6;High;Low;Yes
+674S;58;Male;Master;Non-Smoker;Occasional;High;Unhealthy;6.6;High;Moderate;Yes
+865R;72;Female;High School;Non-Smoker;Never;High;Unhealthy;8;Low;High;No
+348E;74;Male;Bachelor;Non-Smoker;Never;High;Moderate;7.5;Moderate;High;No
+691T;72;Male;Bachelor;Occasional Smoker;Occasional;High;Moderate;7.7;High;High;No
+671H;51;Male;Master;Regular Smoker;Regular;Low;Healthy;7.6;Moderate;High;Yes
+211H;67;Male;Bachelor;Occasional Smoker;Regular;Low;Moderate;4.6;Low;High;No
+806P;29;Male;Bachelor;Occasional Smoker;Occasional;High;Healthy;8.2;High;High;No
+864B;33;Female;Master;Regular Smoker;Occasional;Low;Moderate;4.9;Moderate;High;No
+915V;22;Female;Master;Occasional Smoker;Never;High;Healthy;8.2;High;Moderate;Yes
+933V;23;Male;Master;Non-Smoker;Never;High;Unhealthy;7.5;Low;High;Yes
+340I;84;Female;Bachelor;Occasional Smoker;Never;Moderate;Moderate;7.9;Low;Low;No
+962J;45;Male;Master;Non-Smoker;Regular;Low;Healthy;4.5;High;High;No
+237D;62;Male;Master;Occasional Smoker;Never;High;Moderate;6.8;Low;Low;No
+283K;29;Male;Bachelor;Occasional Smoker;Regular;Moderate;Healthy;5.1;Moderate;Moderate;Yes
+452I;20;Female;Bachelor;Occasional Smoker;Never;High;Moderate;6.3;High;High;Yes
+904Q;36;Male;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;6.7;Moderate;Low;Yes
+676L;53;Male;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;7.5;High;Low;Yes
+789I;21;Male;High School;Regular Smoker;Regular;High;Moderate;8.8;High;Low;Yes
+674M;82;Female;Bachelor;Non-Smoker;Occasional;Low;Healthy;9;High;Moderate;Yes
+240P;49;Female;Master;Non-Smoker;Occasional;Low;Moderate;7.6;Moderate;High;Yes
+880F;67;Male;Master;Occasional Smoker;Occasional;High;Unhealthy;5.5;Moderate;Low;No
+725R;28;Female;Bachelor;Occasional Smoker;Never;Low;Unhealthy;6.1;Moderate;High;No
+666Y;34;Female;Master;Non-Smoker;Occasional;Moderate;Healthy;6.6;Low;High;No
+120X;57;Female;High School;Non-Smoker;Occasional;Moderate;Healthy;8.6;Moderate;High;No
+215N;60;Male;Bachelor;Regular Smoker;Regular;Low;Healthy;7.6;Moderate;Moderate;No
+885E;55;Female;Master;Non-Smoker;Regular;Low;Moderate;7.8;Low;Moderate;No
+813Y;68;Female;High School;Regular Smoker;Regular;Low;Unhealthy;6.9;High;Low;No
+698X;56;Female;Bachelor;Occasional Smoker;Never;High;Unhealthy;4.9;High;Low;No
+363I;77;Male;High School;Non-Smoker;Never;Moderate;Unhealthy;8.5;Low;Low;Yes
+932V;59;Male;Master;Regular Smoker;Never;Moderate;Healthy;8.9;Low;Low;No
+662Y;67;Female;Bachelor;Non-Smoker;Regular;Low;Healthy;6.3;High;Moderate;No
+720U;62;Male;Bachelor;Non-Smoker;Regular;High;Unhealthy;8.2;High;Low;Yes
+657I;66;Female;Bachelor;Regular Smoker;Occasional;Low;Healthy;7.6;Low;Low;No
+111L;64;Female;Master;Regular Smoker;Never;Low;Healthy;8.4;Moderate;Moderate;Yes
+887H;49;Male;High School;Regular Smoker;Occasional;High;Unhealthy;6;Moderate;Low;No
+352N;75;Female;High School;Non-Smoker;Never;Low;Moderate;7.1;High;Low;No
+748L;41;Male;High School;Occasional Smoker;Occasional;Moderate;Moderate;4.8;Moderate;Moderate;Yes
+765S;63;Female;Bachelor;Regular Smoker;Regular;High;Healthy;6.5;Low;Moderate;Yes
+60K;76;Male;High School;Regular Smoker;Never;Low;Moderate;8.2;Low;Moderate;Yes
+892U;44;Female;High School;Occasional Smoker;Occasional;Low;Healthy;8.8;High;Low;Yes
+435Y;29;Female;High School;Occasional Smoker;Regular;Moderate;Moderate;7.4;Moderate;High;Yes
+770C;70;Female;Master;Non-Smoker;Occasional;Moderate;Moderate;5.9;High;High;Yes
+847D;23;Female;Bachelor;Occasional Smoker;Regular;Low;Moderate;6.2;High;Moderate;Yes
+412O;67;Male;Bachelor;Occasional Smoker;Regular;Low;Healthy;6.4;High;Moderate;Yes
+678D;83;Female;Bachelor;Occasional Smoker;Regular;Moderate;Healthy;7.7;High;High;Yes
+481J;70;Female;Master;Regular Smoker;Occasional;Moderate;Healthy;5.1;High;Moderate;Yes
+857N;77;Female;Master;Regular Smoker;Regular;Moderate;Moderate;5.5;Moderate;High;No
+684W;60;Male;High School;Non-Smoker;Never;Low;Unhealthy;5.8;High;Low;Yes
+141R;71;Female;High School;Non-Smoker;Regular;Low;Healthy;4.5;High;High;Yes
+397A;27;Female;Master;Occasional Smoker;Regular;High;Moderate;6;High;Moderate;Yes
+445P;72;Male;High School;Non-Smoker;Occasional;Moderate;Healthy;7.6;Moderate;Moderate;Yes
+443F;63;Female;Master;Occasional Smoker;Regular;Low;Healthy;6;Moderate;Moderate;Yes
+772K;84;Male;Bachelor;Regular Smoker;Never;Low;Healthy;8.7;Low;High;No
+197Z;45;Female;Master;Occasional Smoker;Occasional;Low;Healthy;7.2;Moderate;Moderate;No
+773A;31;Male;Master;Non-Smoker;Never;Low;Unhealthy;8.8;Low;High;Yes
+846V;72;Male;High School;Regular Smoker;Occasional;High;Unhealthy;5.5;Low;Low;Yes
+313A;80;Male;Bachelor;Non-Smoker;Never;High;Moderate;6;High;Low;Yes
+319F;52;Female;Bachelor;Occasional Smoker;Never;High;Unhealthy;5.7;High;High;No
+817D;67;Female;High School;Non-Smoker;Regular;Moderate;Moderate;6.1;Moderate;Low;Yes
+242R;27;Female;Bachelor;Non-Smoker;Regular;Moderate;Moderate;8.3;Low;High;Yes
+950L;80;Male;Bachelor;Regular Smoker;Occasional;Moderate;Moderate;7.4;Low;High;No
+281E;67;Female;High School;Regular Smoker;Never;Moderate;Moderate;5;High;Moderate;Yes
+122A;23;Male;Bachelor;Non-Smoker;Occasional;High;Moderate;5.1;High;Moderate;Yes
+377E;60;Female;Master;Occasional Smoker;Never;Low;Unhealthy;5.9;Low;Moderate;No
+121B;24;Male;High School;Non-Smoker;Regular;Low;Healthy;8.3;High;High;No
+310L;81;Female;High School;Occasional Smoker;Regular;Low;Healthy;7.7;Low;High;No
+291F;72;Female;Bachelor;Occasional Smoker;Occasional;High;Healthy;5.7;Low;High;No
+107T;76;Female;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;6;High;Moderate;No
+82M;58;Male;Bachelor;Occasional Smoker;Occasional;Low;Unhealthy;8.1;Moderate;High;No
+329T;78;Male;High School;Non-Smoker;Occasional;Moderate;Unhealthy;7;Low;Moderate;No
+491B;27;Female;Bachelor;Occasional Smoker;Never;Moderate;Moderate;8.9;High;Low;No
+153P;22;Male;High School;Occasional Smoker;Occasional;Low;Moderate;7.7;Low;High;Yes
+641H;56;Male;High School;Non-Smoker;Occasional;High;Healthy;6.1;High;Low;No
+753R;27;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Healthy;8.2;Moderate;High;Yes
+955X;81;Male;Master;Occasional Smoker;Regular;High;Healthy;4.7;Low;High;No
+414H;44;Female;Master;Occasional Smoker;Occasional;Moderate;Unhealthy;4.6;Low;Moderate;Yes
+136D;43;Male;Bachelor;Non-Smoker;Occasional;High;Moderate;8.6;High;High;Yes
+154U;82;Female;High School;Occasional Smoker;Regular;High;Moderate;6.3;High;Low;No
+798U;44;Male;Master;Regular Smoker;Occasional;High;Healthy;7.1;High;High;No
+577U;32;Female;Master;Non-Smoker;Occasional;Low;Unhealthy;6.5;High;High;Yes
+923D;77;Male;High School;Non-Smoker;Regular;High;Healthy;6.2;Moderate;High;No
+860O;67;Female;Bachelor;Occasional Smoker;Occasional;High;Healthy;6.2;Moderate;High;Yes
+212O;61;Female;Master;Occasional Smoker;Never;Low;Moderate;7.5;High;Low;No
+510C;68;Female;High School;Occasional Smoker;Never;Low;Healthy;9;High;Low;No
+96F;48;Male;Bachelor;Occasional Smoker;Regular;Low;Healthy;4.5;Moderate;High;No
+71V;29;Male;Master;Regular Smoker;Regular;Low;Healthy;5.2;Low;Low;Yes
+830O;57;Male;Bachelor;Regular Smoker;Occasional;Low;Moderate;6.3;Low;Moderate;Yes
+670J;69;Female;Bachelor;Occasional Smoker;Never;High;Moderate;7.9;Moderate;High;Yes
+123R;61;Female;High School;Regular Smoker;Regular;High;Healthy;4.5;Moderate;Low;No
+265K;65;Female;High School;Regular Smoker;Regular;Low;Healthy;6.4;Low;Low;Yes
+33L;52;Female;High School;Non-Smoker;Occasional;High;Healthy;7.9;High;Low;Yes
+721B;79;Female;Master;Regular Smoker;Regular;High;Moderate;4.5;Low;Moderate;Yes
+390V;24;Male;Master;Non-Smoker;Occasional;Moderate;Healthy;5.9;High;Moderate;No
+42B;40;Male;Bachelor;Non-Smoker;Occasional;High;Unhealthy;7.6;High;Moderate;No
+972N;37;Female;Bachelor;Occasional Smoker;Regular;Moderate;Unhealthy;9;Low;High;Yes
+262G;30;Male;High School;Occasional Smoker;Occasional;Moderate;Moderate;6.6;Moderate;High;Yes
+886Z;66;Male;High School;Occasional Smoker;Regular;Moderate;Healthy;8.1;Low;High;Yes
+288N;65;Female;Bachelor;Occasional Smoker;Never;Low;Unhealthy;6.8;High;High;No
+259M;71;Male;Master;Non-Smoker;Occasional;High;Healthy;7.1;Low;High;No
+82G;62;Male;Bachelor;Non-Smoker;Occasional;High;Healthy;7.5;Low;High;Yes
+755E;78;Female;High School;Occasional Smoker;Regular;Moderate;Healthy;4.7;Moderate;High;No
+769L;70;Female;Master;Non-Smoker;Never;Moderate;Moderate;5.7;Low;Moderate;No
+138W;53;Female;Master;Non-Smoker;Occasional;Low;Moderate;8.6;High;Low;No
+365Q;85;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;8.4;Low;Low;Yes
+316R;51;Male;Bachelor;Regular Smoker;Regular;High;Unhealthy;5.5;Low;Low;No
+902G;66;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Unhealthy;5.3;Low;Moderate;No
+592M;49;Female;High School;Occasional Smoker;Never;Moderate;Healthy;9;Low;Low;No
+847P;72;Female;Master;Regular Smoker;Occasional;High;Moderate;8.8;Low;Moderate;Yes
+636X;49;Male;High School;Regular Smoker;Regular;High;Healthy;5;Moderate;Moderate;Yes
+921H;61;Male;High School;Non-Smoker;Occasional;High;Healthy;9;Low;Low;Yes
+42S;22;Male;Master;Regular Smoker;Regular;Moderate;Unhealthy;8.7;Low;Low;Yes
+148O;23;Male;High School;Non-Smoker;Never;Low;Healthy;6.3;Low;Moderate;No
+8J;28;Female;High School;Regular Smoker;Never;High;Unhealthy;5.2;High;High;No
+728N;39;Female;High School;Non-Smoker;Regular;Moderate;Unhealthy;7.1;Moderate;High;No
+140E;71;Male;High School;Occasional Smoker;Occasional;High;Moderate;8.9;Moderate;Moderate;Yes
+455B;66;Male;Bachelor;Occasional Smoker;Regular;Low;Moderate;8;High;Low;No
+178T;83;Male;High School;Non-Smoker;Never;Low;Unhealthy;8.4;Low;Moderate;Yes
+562B;58;Female;Master;Non-Smoker;Never;Low;Healthy;7.4;Low;Moderate;Yes
+454W;36;Female;High School;Non-Smoker;Never;High;Healthy;8;Moderate;Low;Yes
+450G;55;Male;High School;Occasional Smoker;Regular;Moderate;Healthy;5.8;Low;Moderate;Yes
+607G;70;Female;High School;Regular Smoker;Occasional;Low;Moderate;6.1;High;Moderate;Yes
+789D;45;Male;Master;Non-Smoker;Never;Low;Unhealthy;7.5;Low;Moderate;Yes
+948O;45;Male;High School;Non-Smoker;Regular;High;Unhealthy;4.9;Low;High;No
+372Y;46;Male;High School;Non-Smoker;Occasional;Moderate;Unhealthy;8.9;Low;Moderate;Yes
+526M;82;Female;Master;Non-Smoker;Regular;Low;Moderate;5.9;High;Moderate;No
+89R;83;Male;High School;Occasional Smoker;Occasional;High;Healthy;7;Low;High;No
+105A;33;Male;High School;Occasional Smoker;Regular;Moderate;Moderate;5.1;High;High;Yes
+644Q;34;Female;Master;Occasional Smoker;Regular;Low;Moderate;7.6;High;Moderate;No
+607Y;51;Male;Master;Regular Smoker;Never;High;Moderate;5.8;Moderate;High;No
+728P;80;Male;Master;Non-Smoker;Occasional;High;Moderate;5.1;Moderate;Low;No
+34M;44;Male;High School;Occasional Smoker;Regular;High;Healthy;6.8;High;Moderate;Yes
+648I;33;Female;Bachelor;Regular Smoker;Occasional;Moderate;Unhealthy;8.8;High;High;Yes
+477P;28;Female;High School;Occasional Smoker;Regular;High;Healthy;6.7;High;Moderate;Yes
+327G;84;Male;Bachelor;Regular Smoker;Occasional;Moderate;Unhealthy;5;Moderate;High;No
+388O;66;Female;High School;Occasional Smoker;Never;Low;Unhealthy;6.4;Moderate;Moderate;No
+445I;37;Female;Bachelor;Regular Smoker;Never;Moderate;Healthy;8.9;Low;Moderate;Yes
+607X;26;Female;Bachelor;Non-Smoker;Occasional;High;Healthy;8.4;Moderate;High;No
+446E;76;Male;High School;Regular Smoker;Never;Moderate;Healthy;7.7;Moderate;Moderate;Yes
+676A;46;Female;Bachelor;Occasional Smoker;Regular;High;Moderate;7.9;Low;Moderate;No
+375V;43;Female;Bachelor;Non-Smoker;Regular;High;Moderate;6.1;Moderate;High;Yes
+289U;51;Male;Master;Occasional Smoker;Regular;Moderate;Unhealthy;6.5;Low;Low;Yes
+708V;80;Female;Bachelor;Non-Smoker;Occasional;Low;Moderate;8.2;Low;Low;Yes
+927J;56;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;5;Low;Low;Yes
+273D;61;Female;Master;Regular Smoker;Occasional;High;Moderate;5.2;High;Moderate;No
+465Z;31;Male;High School;Occasional Smoker;Regular;Moderate;Moderate;8.9;Low;Low;No
+841F;57;Male;Bachelor;Non-Smoker;Occasional;Low;Healthy;4.9;Moderate;High;No
+650F;43;Male;Master;Non-Smoker;Occasional;Moderate;Moderate;5.1;Moderate;High;No
+39C;55;Female;Master;Occasional Smoker;Occasional;Moderate;Moderate;7.1;High;Moderate;Yes
+442G;70;Female;Bachelor;Regular Smoker;Occasional;High;Moderate;6.3;Moderate;Low;Yes
+436W;77;Female;High School;Regular Smoker;Never;Moderate;Healthy;8.9;Low;Moderate;Yes
+623A;49;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;5.3;Low;Low;No
+274U;23;Female;Bachelor;Non-Smoker;Never;Low;Unhealthy;4.7;Moderate;High;Yes
+746Z;83;Female;High School;Occasional Smoker;Never;High;Moderate;7.5;Moderate;High;Yes
+508Z;75;Female;High School;Non-Smoker;Occasional;Low;Healthy;9;Low;Moderate;No
+573Q;74;Male;High School;Occasional Smoker;Occasional;Low;Unhealthy;5.8;High;Low;Yes
+495M;24;Female;High School;Non-Smoker;Regular;High;Moderate;8.6;Moderate;High;Yes
+995N;76;Female;Master;Occasional Smoker;Never;Low;Unhealthy;5.2;Moderate;Moderate;No
+355N;55;Male;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;6.5;Moderate;Low;Yes
+607P;32;Female;Master;Occasional Smoker;Regular;Moderate;Unhealthy;6.4;High;Low;No
+653P;44;Male;Bachelor;Non-Smoker;Never;Low;Healthy;9;Low;Low;Yes
+88A;40;Male;Bachelor;Occasional Smoker;Regular;Low;Unhealthy;7.7;Moderate;Moderate;Yes
+424N;74;Female;Master;Occasional Smoker;Never;Low;Unhealthy;7.9;High;Moderate;No
+385X;66;Male;Master;Non-Smoker;Regular;High;Moderate;6.2;Moderate;High;No
+487I;26;Female;Bachelor;Non-Smoker;Occasional;Moderate;Unhealthy;6.4;Moderate;Low;Yes
+194L;60;Female;Master;Regular Smoker;Regular;Moderate;Unhealthy;5.2;High;High;No
+591P;56;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;6.4;Low;Moderate;Yes
+582B;31;Male;High School;Non-Smoker;Never;High;Healthy;9;High;High;No
+92R;84;Male;High School;Non-Smoker;Never;Low;Healthy;9;Low;Low;No
+840X;63;Female;High School;Regular Smoker;Occasional;Moderate;Unhealthy;9;High;Low;No
+260K;77;Female;Master;Non-Smoker;Never;Moderate;Unhealthy;8.6;High;High;No
+438N;80;Female;Bachelor;Occasional Smoker;Regular;Low;Unhealthy;5.3;Moderate;Low;No
+477V;83;Male;Bachelor;Non-Smoker;Regular;Low;Moderate;4.6;Moderate;High;No
+429D;25;Female;High School;Regular Smoker;Regular;Moderate;Moderate;5.3;Low;High;Yes
+1U;28;Female;Bachelor;Regular Smoker;Occasional;High;Moderate;6.9;Moderate;Low;No
+121W;42;Male;Master;Occasional Smoker;Never;Moderate;Healthy;5.8;Moderate;Low;No
+775Z;58;Female;High School;Occasional Smoker;Never;Moderate;Unhealthy;8.3;Low;Moderate;Yes
+740U;23;Male;Master;Occasional Smoker;Never;Low;Healthy;7.3;Moderate;Low;Yes
+657B;72;Male;Master;Non-Smoker;Never;High;Healthy;6;High;Low;No
+456Q;60;Male;Bachelor;Occasional Smoker;Regular;Low;Healthy;7.7;Moderate;Moderate;No
+8M;69;Male;Bachelor;Non-Smoker;Never;Low;Healthy;9;Moderate;Low;No
+822T;84;Male;Master;Regular Smoker;Regular;High;Moderate;5.8;Moderate;High;No
+792P;32;Female;Master;Non-Smoker;Never;Moderate;Unhealthy;6.7;Moderate;Low;No
+195P;81;Female;Bachelor;Regular Smoker;Regular;Moderate;Moderate;6.9;Moderate;High;Yes
+70F;37;Male;High School;Occasional Smoker;Regular;Low;Unhealthy;6;High;Moderate;No
+38R;22;Female;Bachelor;Occasional Smoker;Regular;High;Moderate;6.4;Moderate;High;No
+325R;67;Female;High School;Non-Smoker;Never;Moderate;Healthy;7.8;Moderate;Low;No
+483L;55;Male;Master;Regular Smoker;Never;Low;Healthy;9;Moderate;Moderate;Yes
+413L;52;Male;Bachelor;Occasional Smoker;Never;Low;Healthy;8.8;Low;High;Yes
+762H;27;Male;Bachelor;Non-Smoker;Occasional;Moderate;Healthy;5.9;High;Moderate;No
+449F;49;Female;Master;Regular Smoker;Never;Moderate;Moderate;4.6;Moderate;Moderate;Yes
+607O;49;Female;Master;Non-Smoker;Regular;Low;Healthy;4.5;High;Moderate;No
+61H;75;Female;High School;Regular Smoker;Never;Moderate;Unhealthy;5.9;High;Low;Yes
+720C;43;Female;High School;Regular Smoker;Occasional;Moderate;Healthy;8.4;High;Moderate;No
+129A;77;Female;High School;Regular Smoker;Regular;Low;Healthy;4.5;Moderate;Moderate;Yes
+511C;79;Male;Bachelor;Non-Smoker;Regular;High;Healthy;5;High;Low;Yes
+679A;20;Female;High School;Non-Smoker;Occasional;Moderate;Unhealthy;6.8;High;High;No
+972W;54;Female;Master;Regular Smoker;Occasional;Moderate;Moderate;6.2;Moderate;Moderate;Yes
+422P;71;Female;Bachelor;Non-Smoker;Regular;Low;Moderate;8.2;High;Moderate;No
+541L;32;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Unhealthy;8.5;Moderate;Moderate;No
+629D;76;Female;Bachelor;Regular Smoker;Never;High;Moderate;7.4;Low;High;No
+61Y;37;Female;Bachelor;Occasional Smoker;Never;Moderate;Healthy;9;Low;Low;No
+561N;64;Female;Master;Regular Smoker;Occasional;High;Unhealthy;5.7;Low;High;No
+859N;49;Male;Master;Regular Smoker;Regular;High;Healthy;4.8;Moderate;High;No
+337A;85;Female;Master;Regular Smoker;Occasional;Low;Unhealthy;7.6;Low;Moderate;No
+798T;66;Male;High School;Regular Smoker;Never;Moderate;Unhealthy;8.8;High;Low;No
+68S;53;Female;Bachelor;Regular Smoker;Regular;Moderate;Unhealthy;8.7;Low;Moderate;Yes
+746E;29;Female;High School;Occasional Smoker;Occasional;Low;Healthy;9;Moderate;Moderate;Yes
+81A;49;Male;High School;Non-Smoker;Occasional;Moderate;Unhealthy;8;Low;Moderate;Yes
+182L;38;Male;Bachelor;Non-Smoker;Never;High;Unhealthy;6.5;Low;Low;No
+155R;69;Female;Master;Non-Smoker;Regular;High;Moderate;6.4;Moderate;Low;Yes
+83A;20;Female;Bachelor;Regular Smoker;Never;High;Healthy;6;Moderate;Moderate;No
+357S;32;Male;Bachelor;Non-Smoker;Never;Low;Unhealthy;6.7;Low;Moderate;Yes
+268Z;78;Male;High School;Regular Smoker;Never;Low;Moderate;7.7;Moderate;Moderate;Yes
+12B;67;Male;Bachelor;Non-Smoker;Occasional;Low;Moderate;8.3;Low;Moderate;No
+120F;40;Female;Bachelor;Occasional Smoker;Regular;Moderate;Healthy;7.5;High;Moderate;Yes
+46A;52;Male;High School;Non-Smoker;Regular;Low;Moderate;4.5;Moderate;Low;No
+412A;23;Female;Master;Non-Smoker;Never;Moderate;Unhealthy;7.1;Low;High;Yes
+659D;43;Male;Bachelor;Regular Smoker;Occasional;High;Moderate;5.3;High;Low;Yes
+100Y;21;Female;High School;Occasional Smoker;Never;High;Moderate;6.7;Low;Moderate;Yes
+840Y;84;Male;Master;Regular Smoker;Never;Moderate;Unhealthy;6.2;Low;High;No
+768Y;40;Female;Bachelor;Non-Smoker;Occasional;High;Healthy;6.4;Low;Low;No
+308I;35;Male;High School;Occasional Smoker;Regular;Low;Healthy;6;Low;High;No
+429Z;51;Female;High School;Non-Smoker;Regular;Moderate;Moderate;7.7;Moderate;Moderate;No
+646E;62;Male;Bachelor;Regular Smoker;Occasional;High;Healthy;6.4;Low;Low;No
+84P;57;Male;High School;Occasional Smoker;Occasional;Moderate;Healthy;8.3;High;High;Yes
+595H;55;Female;High School;Occasional Smoker;Occasional;High;Healthy;6.7;Low;Moderate;Yes
+101S;69;Male;Bachelor;Occasional Smoker;Occasional;Low;Healthy;5;Low;Moderate;Yes
+406J;63;Female;Master;Regular Smoker;Occasional;Low;Healthy;8.4;High;Moderate;No
+415R;52;Male;Master;Regular Smoker;Regular;Moderate;Moderate;7.1;Moderate;High;No
+662C;81;Male;Master;Regular Smoker;Never;Moderate;Moderate;6.7;High;Low;No
+584X;55;Male;Bachelor;Regular Smoker;Occasional;Low;Moderate;7.5;High;Low;Yes
+75C;61;Male;High School;Occasional Smoker;Occasional;Low;Moderate;8.9;Moderate;Moderate;No
+132H;48;Male;High School;Regular Smoker;Regular;Moderate;Moderate;7;Moderate;Low;Yes
+633C;30;Female;Master;Non-Smoker;Occasional;Moderate;Moderate;4.5;Moderate;Moderate;Yes
+908O;70;Female;Master;Occasional Smoker;Occasional;Moderate;Unhealthy;7.5;Low;Moderate;Yes
+780C;47;Female;High School;Regular Smoker;Occasional;Low;Moderate;6.9;Moderate;High;Yes
+133J;85;Female;Master;Occasional Smoker;Occasional;Low;Moderate;4.8;High;Low;Yes
+926X;31;Male;Bachelor;Non-Smoker;Never;High;Unhealthy;9;Moderate;High;Yes
+685P;24;Female;High School;Regular Smoker;Regular;High;Unhealthy;7;Low;High;No
+601Y;30;Male;Bachelor;Occasional Smoker;Regular;High;Moderate;5.5;Low;Low;Yes
+999O;71;Male;Bachelor;Occasional Smoker;Regular;Low;Moderate;4.6;Low;Moderate;Yes
+467S;50;Male;Bachelor;Non-Smoker;Occasional;Moderate;Healthy;9;Low;Moderate;Yes
+296U;61;Female;High School;Non-Smoker;Occasional;Low;Moderate;5.5;High;Moderate;No
+751P;28;Female;High School;Occasional Smoker;Never;Moderate;Moderate;7.1;Low;High;No
+167P;66;Male;Bachelor;Non-Smoker;Regular;Moderate;Moderate;6.4;Moderate;High;No
+979T;56;Female;High School;Regular Smoker;Never;Low;Unhealthy;6.8;High;Low;No
+66E;64;Female;Master;Occasional Smoker;Never;Low;Healthy;5.5;Moderate;Moderate;No
+510H;37;Female;Master;Occasional Smoker;Regular;Moderate;Moderate;8.9;High;Moderate;No
+606S;47;Female;Bachelor;Non-Smoker;Never;Moderate;Moderate;8.6;High;Moderate;No
+524X;67;Male;Master;Regular Smoker;Occasional;High;Unhealthy;6.5;Moderate;Moderate;Yes
+886C;21;Male;Master;Regular Smoker;Occasional;Low;Unhealthy;5.5;Moderate;High;Yes
+891T;58;Female;High School;Regular Smoker;Never;Moderate;Unhealthy;7.7;High;High;Yes
+671V;26;Female;Master;Regular Smoker;Never;Low;Unhealthy;8.8;Low;High;Yes
+152M;47;Female;Master;Regular Smoker;Never;Moderate;Unhealthy;8.1;High;Low;Yes
+479B;79;Female;Bachelor;Regular Smoker;Regular;High;Moderate;5;Low;Moderate;No
+508R;64;Male;Master;Non-Smoker;Never;Moderate;Moderate;7;Low;Low;Yes
+360J;79;Female;Master;Regular Smoker;Regular;Moderate;Healthy;6.8;Moderate;Moderate;Yes
+807T;66;Male;High School;Non-Smoker;Never;Moderate;Unhealthy;8.6;Moderate;Moderate;No
+452K;39;Male;Master;Non-Smoker;Never;Moderate;Unhealthy;8.8;Low;Low;Yes
+29K;21;Female;High School;Regular Smoker;Occasional;High;Unhealthy;7.3;Moderate;Moderate;No
+900O;78;Female;Master;Regular Smoker;Occasional;Low;Moderate;8.1;Moderate;Low;No
+848Z;60;Male;Bachelor;Occasional Smoker;Regular;Low;Moderate;6.4;Low;Moderate;No
+456X;62;Female;High School;Occasional Smoker;Never;High;Healthy;5.7;High;Low;Yes
+359U;67;Female;Bachelor;Regular Smoker;Regular;High;Healthy;6.5;High;High;Yes
+835T;45;Female;Master;Occasional Smoker;Occasional;Low;Healthy;7.9;Low;High;No
+750X;25;Male;High School;Regular Smoker;Never;High;Unhealthy;5.6;Moderate;High;Yes
+741J;47;Female;High School;Regular Smoker;Regular;High;Moderate;7.8;Moderate;Low;No
+548H;45;Male;High School;Occasional Smoker;Occasional;Low;Moderate;5.6;Moderate;High;Yes
+244W;34;Female;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;5.9;Moderate;Moderate;No
+621S;28;Female;High School;Regular Smoker;Regular;Low;Unhealthy;7.1;Low;Low;No
+116Q;51;Female;Master;Occasional Smoker;Never;High;Moderate;7.1;Low;Moderate;No
+244V;69;Female;Master;Regular Smoker;Occasional;Moderate;Healthy;6.5;High;High;Yes
+200P;77;Female;Bachelor;Non-Smoker;Never;Low;Moderate;5.1;High;Low;Yes
+678Z;36;Female;High School;Occasional Smoker;Never;Low;Unhealthy;8.3;High;Low;No
+422E;85;Female;High School;Occasional Smoker;Never;Moderate;Healthy;6.9;Moderate;Moderate;Yes
+707B;20;Male;Master;Regular Smoker;Never;Low;Healthy;8.7;Moderate;Moderate;No
+951O;43;Male;Master;Occasional Smoker;Regular;Low;Healthy;6.3;Low;High;Yes
+511O;21;Male;High School;Regular Smoker;Never;Moderate;Moderate;7.2;Low;High;Yes
+556X;37;Female;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;5.8;Moderate;High;No
+887A;61;Male;Bachelor;Occasional Smoker;Occasional;High;Moderate;5.7;Moderate;Moderate;No
+98S;41;Male;High School;Non-Smoker;Never;Low;Unhealthy;7.1;High;Low;Yes
+27A;83;Female;High School;Regular Smoker;Occasional;High;Healthy;5.7;High;Low;No
+681G;30;Male;High School;Occasional Smoker;Regular;Moderate;Unhealthy;6.9;Low;Moderate;Yes
+18F;81;Female;High School;Occasional Smoker;Regular;High;Healthy;6.6;Low;Moderate;No
+140W;40;Male;Bachelor;Occasional Smoker;Regular;High;Healthy;7.8;Moderate;Moderate;Yes
+424A;85;Female;Master;Regular Smoker;Never;Low;Unhealthy;7.2;Low;Low;Yes
+306X;73;Female;High School;Regular Smoker;Never;Low;Unhealthy;7;High;Low;Yes
+771T;72;Female;Master;Non-Smoker;Occasional;High;Moderate;6.4;High;Moderate;No
+874E;31;Female;Master;Occasional Smoker;Never;High;Unhealthy;5.8;Moderate;Moderate;No
+625Y;60;Female;Master;Non-Smoker;Never;Moderate;Moderate;4.8;Low;High;Yes
+470N;44;Male;High School;Non-Smoker;Never;Low;Healthy;8.5;Low;High;Yes
+798O;41;Male;Bachelor;Regular Smoker;Regular;Low;Healthy;4.5;Moderate;High;Yes
+574H;28;Female;Master;Non-Smoker;Never;High;Healthy;9;Low;Low;No
+821O;76;Female;Bachelor;Non-Smoker;Never;High;Moderate;7.6;Moderate;Low;No
+933D;50;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Healthy;5;Low;High;No
+863F;85;Female;Master;Occasional Smoker;Never;Moderate;Unhealthy;5.3;Moderate;High;No
+925Y;50;Female;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;6;Low;High;Yes
+983Q;27;Male;Bachelor;Non-Smoker;Never;High;Healthy;7.3;Low;Low;No
+702F;53;Male;Bachelor;Non-Smoker;Regular;High;Healthy;4.5;Moderate;Low;No
+602P;35;Female;High School;Regular Smoker;Never;High;Moderate;4.9;High;High;Yes
+947E;76;Female;High School;Regular Smoker;Regular;High;Unhealthy;6.7;Low;High;Yes
+427O;71;Male;Master;Regular Smoker;Regular;Moderate;Moderate;5.6;Moderate;Low;No
+356F;40;Male;Master;Regular Smoker;Occasional;High;Healthy;6.7;Low;High;No
+691N;84;Female;High School;Occasional Smoker;Regular;Low;Unhealthy;8.5;Moderate;Moderate;No
+114V;37;Male;Bachelor;Regular Smoker;Never;Low;Moderate;8.7;Moderate;Low;No
+145Q;35;Female;Master;Non-Smoker;Occasional;High;Unhealthy;6.7;Low;High;Yes
+420T;82;Male;High School;Regular Smoker;Occasional;Moderate;Unhealthy;7.1;Low;Low;No
+596E;83;Female;Bachelor;Occasional Smoker;Never;High;Moderate;6.4;Low;High;Yes
+678L;40;Male;Master;Occasional Smoker;Never;Low;Unhealthy;8.9;Moderate;Moderate;Yes
+235Y;33;Female;High School;Non-Smoker;Occasional;Moderate;Moderate;8.2;Low;Moderate;No
+783T;36;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Unhealthy;8.2;Low;High;Yes
+384K;55;Female;Bachelor;Non-Smoker;Regular;Moderate;Moderate;5.3;High;Moderate;No
+111Z;64;Female;Bachelor;Non-Smoker;Occasional;Moderate;Unhealthy;4.7;High;Low;Yes
+567R;32;Female;Bachelor;Occasional Smoker;Occasional;High;Moderate;6.1;Low;Moderate;Yes
+676H;31;Male;Master;Regular Smoker;Occasional;High;Unhealthy;6.8;Low;Moderate;Yes
+875K;47;Female;Bachelor;Regular Smoker;Regular;High;Healthy;7.3;Low;Moderate;No
+246M;63;Female;Bachelor;Regular Smoker;Never;High;Moderate;7.5;Moderate;Low;Yes
+418E;65;Female;High School;Non-Smoker;Occasional;High;Unhealthy;7.8;Low;High;No
+64U;84;Male;High School;Non-Smoker;Never;Low;Unhealthy;5.6;Moderate;High;No
+208L;79;Female;High School;Regular Smoker;Regular;Moderate;Moderate;8.6;Low;Moderate;No
+227Z;79;Female;High School;Regular Smoker;Regular;Moderate;Unhealthy;7.5;High;Moderate;No
+721P;61;Male;High School;Regular Smoker;Regular;Moderate;Unhealthy;5.2;Moderate;Moderate;No
+414A;75;Male;High School;Regular Smoker;Regular;Moderate;Unhealthy;8.8;Moderate;High;Yes
+284T;78;Male;High School;Non-Smoker;Occasional;Moderate;Unhealthy;5;High;Moderate;Yes
+882S;53;Female;Master;Non-Smoker;Occasional;High;Unhealthy;5.9;Low;Moderate;Yes
+574D;24;Male;High School;Non-Smoker;Regular;Moderate;Healthy;7.7;Low;Moderate;Yes
+931T;72;Male;High School;Regular Smoker;Occasional;High;Unhealthy;5.4;Moderate;Low;No
+448Z;29;Male;Master;Regular Smoker;Never;Low;Moderate;5.2;High;Low;Yes
+836D;29;Male;High School;Non-Smoker;Occasional;Moderate;Moderate;6.9;Low;Low;Yes
+999H;61;Male;Master;Regular Smoker;Regular;Moderate;Unhealthy;5;High;Low;No
+817Q;49;Female;Master;Non-Smoker;Occasional;High;Moderate;8.7;High;High;No
+210S;73;Male;Master;Regular Smoker;Regular;Moderate;Healthy;6.5;High;Moderate;Yes
+121U;57;Male;Bachelor;Occasional Smoker;Never;High;Moderate;8.5;Moderate;Low;Yes
+450I;45;Female;Master;Regular Smoker;Occasional;Low;Moderate;5.9;Low;Moderate;No
+127T;49;Female;Master;Occasional Smoker;Occasional;Low;Unhealthy;8.4;Low;Low;No
+740J;64;Male;Master;Non-Smoker;Occasional;Low;Moderate;6.2;High;Moderate;No
+266S;37;Male;High School;Non-Smoker;Never;Low;Moderate;7;High;Low;Yes
+134P;33;Male;Bachelor;Regular Smoker;Never;Low;Healthy;6.8;High;High;No
+977G;73;Female;Master;Regular Smoker;Occasional;Moderate;Moderate;5;Moderate;Low;Yes
+170Q;78;Male;Bachelor;Non-Smoker;Regular;Low;Healthy;5;Low;Moderate;No
+716E;27;Male;Bachelor;Non-Smoker;Regular;High;Unhealthy;8.8;Moderate;High;No
+187R;40;Female;High School;Occasional Smoker;Regular;High;Moderate;9;Moderate;Moderate;Yes
+742W;37;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;5.8;Moderate;Moderate;No
+784X;69;Female;Bachelor;Regular Smoker;Never;Moderate;Moderate;8.9;High;Low;No
+88O;51;Female;High School;Regular Smoker;Occasional;Moderate;Unhealthy;8.7;Moderate;High;No
+376T;74;Male;High School;Non-Smoker;Regular;Moderate;Unhealthy;6.2;High;High;No
+285A;48;Male;High School;Regular Smoker;Never;High;Healthy;7.3;Low;Moderate;No
+692I;54;Female;High School;Non-Smoker;Regular;Moderate;Unhealthy;4.5;Low;High;No
+509O;56;Female;Master;Regular Smoker;Regular;High;Unhealthy;5.4;High;Low;Yes
+553W;71;Female;High School;Regular Smoker;Occasional;High;Healthy;8.2;High;Moderate;Yes
+661D;46;Male;Master;Occasional Smoker;Regular;Moderate;Healthy;5.1;Low;Moderate;Yes
+274P;34;Male;Master;Regular Smoker;Occasional;Moderate;Healthy;8.3;Moderate;Low;Yes
+539W;27;Male;Master;Non-Smoker;Never;High;Moderate;5.4;High;High;No
+221B;62;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;6.2;High;High;Yes
+913E;24;Female;High School;Occasional Smoker;Never;High;Moderate;8.3;Low;High;Yes
+446T;73;Female;High School;Regular Smoker;Occasional;Moderate;Healthy;9;High;High;No
+646Z;37;Female;High School;Regular Smoker;Occasional;High;Healthy;5.6;Low;Moderate;No
+624V;48;Male;Master;Regular Smoker;Occasional;Low;Moderate;8.9;Moderate;Moderate;Yes
+194Q;47;Female;Master;Non-Smoker;Occasional;Low;Healthy;9;Low;Low;No
+973N;28;Female;Bachelor;Non-Smoker;Regular;Low;Unhealthy;7.3;Low;Moderate;Yes
+963G;36;Female;High School;Occasional Smoker;Occasional;High;Moderate;7.6;Moderate;Moderate;No
+226G;41;Female;High School;Occasional Smoker;Regular;Low;Moderate;5.2;Moderate;High;Yes
+682C;52;Female;High School;Non-Smoker;Occasional;Low;Unhealthy;9;Moderate;Moderate;Yes
+831I;69;Male;High School;Regular Smoker;Never;High;Moderate;8.8;Moderate;Low;No
+166P;78;Female;Master;Occasional Smoker;Occasional;Moderate;Unhealthy;8.8;High;Moderate;Yes
+525G;65;Male;Bachelor;Regular Smoker;Regular;High;Unhealthy;6.5;Moderate;Moderate;Yes
+107E;55;Male;Bachelor;Non-Smoker;Never;High;Unhealthy;7;Low;High;Yes
+129E;31;Female;Master;Non-Smoker;Never;High;Unhealthy;7.3;High;Moderate;Yes
+168A;20;Male;High School;Occasional Smoker;Occasional;Low;Unhealthy;8.6;High;Moderate;Yes
+830V;77;Female;Bachelor;Occasional Smoker;Never;Moderate;Moderate;7.9;Low;Low;No
+421K;25;Male;High School;Occasional Smoker;Occasional;High;Unhealthy;8.4;Low;Low;No
+102T;23;Female;Bachelor;Non-Smoker;Regular;Moderate;Unhealthy;6.6;Low;High;Yes
+411C;36;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;6.8;Moderate;Moderate;No
+456Y;74;Male;Bachelor;Non-Smoker;Occasional;Moderate;Unhealthy;7;Low;Low;No
+837V;76;Female;Master;Non-Smoker;Occasional;Moderate;Unhealthy;7.4;Low;Low;Yes
+613M;39;Female;Bachelor;Regular Smoker;Never;High;Unhealthy;5.4;Moderate;Moderate;No
+374A;42;Male;Bachelor;Regular Smoker;Occasional;Moderate;Unhealthy;5.5;Moderate;Low;Yes
+404Q;43;Female;Bachelor;Occasional Smoker;Regular;Low;Unhealthy;7.5;Moderate;High;Yes
+327V;22;Female;Bachelor;Regular Smoker;Never;Low;Moderate;6.3;Moderate;Low;Yes
+659M;77;Male;High School;Occasional Smoker;Regular;High;Unhealthy;5.3;Low;Low;Yes
+638I;77;Male;Master;Occasional Smoker;Occasional;High;Healthy;5.5;Low;Low;No
+786P;55;Female;Bachelor;Regular Smoker;Occasional;Moderate;Healthy;5.7;High;Moderate;No
+146F;38;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;8.8;Moderate;High;Yes
+148G;68;Male;High School;Non-Smoker;Regular;Moderate;Moderate;8.3;Moderate;Low;No
+424H;66;Male;High School;Non-Smoker;Occasional;Moderate;Healthy;7.2;Moderate;Moderate;Yes
+505I;82;Male;Bachelor;Non-Smoker;Occasional;Moderate;Unhealthy;5.9;Moderate;High;No
+849C;58;Female;Master;Non-Smoker;Occasional;Moderate;Unhealthy;7.9;Low;High;Yes
+455J;82;Male;Master;Regular Smoker;Never;Moderate;Healthy;7.1;High;High;Yes
+284Y;84;Female;Master;Non-Smoker;Occasional;Moderate;Healthy;4.9;Low;Moderate;Yes
+916P;67;Male;Master;Regular Smoker;Never;Low;Moderate;7.3;Low;High;Yes
+920E;83;Male;High School;Occasional Smoker;Regular;Moderate;Unhealthy;8.6;High;Moderate;Yes
+274E;79;Male;Master;Regular Smoker;Regular;Low;Moderate;5.8;Low;Moderate;No
+111G;43;Male;High School;Non-Smoker;Regular;Moderate;Moderate;6.9;Low;High;Yes
+173T;46;Male;Bachelor;Non-Smoker;Regular;High;Healthy;5.1;High;High;No
+144F;33;Male;Bachelor;Non-Smoker;Occasional;High;Moderate;6.7;High;Moderate;Yes
+415P;84;Male;Master;Regular Smoker;Occasional;Low;Healthy;7.1;High;Low;No
+366J;21;Female;Bachelor;Regular Smoker;Occasional;High;Healthy;5.1;Moderate;High;Yes
+202A;22;Male;Master;Occasional Smoker;Never;Low;Unhealthy;7;Moderate;High;No
+535Y;76;Female;Bachelor;Non-Smoker;Never;Moderate;Unhealthy;8.6;Low;Moderate;Yes
+487H;21;Female;Bachelor;Regular Smoker;Occasional;Low;Healthy;9;High;Low;Yes
+622L;43;Male;Master;Non-Smoker;Regular;Moderate;Unhealthy;8.1;Moderate;Low;No
+120Q;79;Female;Master;Occasional Smoker;Never;Low;Unhealthy;7.1;High;Low;No
+97T;58;Female;Bachelor;Non-Smoker;Regular;Low;Healthy;4.5;Moderate;Moderate;Yes
+230W;58;Female;Master;Non-Smoker;Occasional;High;Healthy;6.6;High;Moderate;Yes
+600Z;36;Male;High School;Regular Smoker;Never;Moderate;Unhealthy;4.9;Low;Moderate;No
+876U;50;Female;High School;Regular Smoker;Never;Moderate;Healthy;9;High;High;Yes
+618K;65;Female;Bachelor;Non-Smoker;Occasional;High;Healthy;9;Low;High;Yes
+538B;73;Male;High School;Non-Smoker;Never;Moderate;Healthy;7.7;Moderate;High;No
+225U;65;Female;High School;Occasional Smoker;Occasional;High;Moderate;7.1;Moderate;High;Yes
+854Y;65;Female;Master;Occasional Smoker;Never;High;Unhealthy;7.4;Low;Low;No
+560R;51;Male;Bachelor;Regular Smoker;Regular;Low;Unhealthy;6;Moderate;Moderate;No
+737J;60;Female;Master;Non-Smoker;Occasional;Low;Unhealthy;4.9;Low;Low;No
+843G;22;Female;Master;Non-Smoker;Occasional;High;Healthy;6.3;High;High;Yes
+290S;40;Female;Master;Occasional Smoker;Occasional;High;Unhealthy;8.4;Low;High;Yes
+123S;60;Male;Master;Occasional Smoker;Occasional;Low;Moderate;6.1;Low;High;Yes
+603T;72;Male;High School;Regular Smoker;Never;High;Moderate;6.2;Moderate;High;No
+390Y;74;Male;Master;Non-Smoker;Regular;Low;Moderate;6.8;Moderate;High;Yes
+258B;24;Male;Bachelor;Non-Smoker;Occasional;High;Healthy;4.7;Low;High;Yes
+977Q;56;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;8.5;Moderate;Low;No
+974Q;82;Male;High School;Non-Smoker;Regular;Low;Healthy;4.5;High;Moderate;No
+251J;54;Male;Bachelor;Non-Smoker;Never;High;Moderate;7.3;Low;Moderate;No
+846I;47;Female;Bachelor;Non-Smoker;Occasional;High;Healthy;9;Moderate;High;No
+683Z;27;Female;High School;Occasional Smoker;Never;Low;Healthy;7.2;Moderate;High;No
+219I;35;Male;Bachelor;Occasional Smoker;Occasional;Moderate;Unhealthy;8.8;High;Moderate;Yes
+858S;31;Female;Master;Regular Smoker;Occasional;Moderate;Unhealthy;5.3;Moderate;Moderate;Yes
+772F;47;Female;High School;Regular Smoker;Regular;Moderate;Healthy;5.2;Moderate;High;No
+244I;73;Female;Bachelor;Non-Smoker;Regular;Low;Moderate;6.1;Low;Moderate;No
+686V;59;Female;High School;Regular Smoker;Never;Low;Moderate;4.7;High;Moderate;Yes
+200N;43;Male;High School;Occasional Smoker;Never;Low;Unhealthy;5.2;Moderate;Moderate;Yes
+871N;42;Female;Master;Occasional Smoker;Occasional;High;Moderate;5.6;Low;Low;No
+649N;68;Male;High School;Occasional Smoker;Never;High;Moderate;7.4;Low;Moderate;Yes
+27Y;55;Female;Master;Regular Smoker;Regular;High;Unhealthy;6.1;Low;Low;Yes
+394J;29;Male;High School;Non-Smoker;Occasional;High;Unhealthy;8.7;Moderate;Low;No
+117N;69;Male;Master;Non-Smoker;Occasional;Low;Unhealthy;8.6;Moderate;High;No
+646I;36;Male;Master;Occasional Smoker;Never;Moderate;Unhealthy;6.9;High;Low;No
+132K;68;Female;High School;Non-Smoker;Regular;High;Unhealthy;8.3;High;Low;No
+945M;84;Male;Bachelor;Non-Smoker;Occasional;Low;Unhealthy;7.7;Low;Moderate;Yes
+754H;48;Female;High School;Occasional Smoker;Occasional;Moderate;Moderate;8;Moderate;Low;No
+514J;48;Female;Master;Non-Smoker;Never;High;Moderate;7.4;High;Low;Yes
+124D;23;Male;Bachelor;Occasional Smoker;Occasional;Low;Unhealthy;6.9;High;Low;Yes
+402I;46;Male;High School;Regular Smoker;Occasional;Low;Healthy;8.3;Low;High;No
+717G;51;Female;Bachelor;Regular Smoker;Regular;Low;Unhealthy;6.4;Low;Moderate;Yes
+674I;37;Female;High School;Non-Smoker;Regular;Low;Unhealthy;6.9;Moderate;Low;No
+84R;42;Male;Master;Occasional Smoker;Occasional;Moderate;Healthy;4.6;Low;Low;No
+25C;76;Male;High School;Non-Smoker;Occasional;Low;Healthy;7.9;Low;High;No
+638E;48;Female;Master;Occasional Smoker;Regular;Moderate;Unhealthy;7.8;High;Moderate;Yes
+226F;81;Female;Bachelor;Regular Smoker;Occasional;High;Moderate;7.6;High;High;Yes
+663P;85;Female;Master;Non-Smoker;Regular;High;Healthy;4.5;High;Low;Yes
+497S;26;Male;High School;Non-Smoker;Never;Moderate;Moderate;8.3;Low;Low;No
+907S;77;Male;High School;Non-Smoker;Occasional;Moderate;Unhealthy;8.8;Low;Moderate;No
+638C;47;Male;Bachelor;Non-Smoker;Occasional;Moderate;Moderate;7.9;High;Low;No
+498S;77;Female;High School;Non-Smoker;Regular;Moderate;Unhealthy;6;Low;High;No
+600V;49;Female;Bachelor;Non-Smoker;Never;Moderate;Moderate;8.5;Moderate;Moderate;Yes
+452N;43;Male;Bachelor;Regular Smoker;Never;Low;Healthy;5.7;High;Low;No
+499X;80;Female;Master;Regular Smoker;Regular;Moderate;Unhealthy;6.9;High;High;No
+44O;40;Male;Bachelor;Regular Smoker;Occasional;Moderate;Moderate;7.4;Moderate;Low;Yes
+298R;84;Male;High School;Non-Smoker;Never;Low;Unhealthy;8.5;High;Low;No
+22N;32;Female;Master;Non-Smoker;Regular;Low;Unhealthy;6.2;Moderate;High;Yes
+615G;27;Male;High School;Occasional Smoker;Never;Moderate;Unhealthy;8.6;Low;High;Yes
+529B;73;Male;Master;Regular Smoker;Never;Moderate;Unhealthy;8.6;Low;High;Yes
+756F;29;Female;Bachelor;Regular Smoker;Regular;High;Moderate;7.3;Moderate;High;Yes
+331R;73;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;5.8;High;High;No
+875A;23;Male;Bachelor;Occasional Smoker;Regular;Moderate;Unhealthy;5.6;Low;Moderate;Yes
+135A;29;Female;Bachelor;Regular Smoker;Occasional;High;Healthy;6.4;Moderate;Low;Yes
+249U;84;Male;Bachelor;Non-Smoker;Never;Low;Moderate;7.1;Moderate;Low;No
+971F;58;Male;Master;Non-Smoker;Never;Moderate;Unhealthy;5.5;Low;Low;No
+766C;80;Male;Master;Occasional Smoker;Occasional;High;Moderate;6.2;High;Moderate;Yes
+397K;49;Female;High School;Regular Smoker;Never;High;Healthy;8.2;Low;Low;Yes
+601R;66;Female;Master;Regular Smoker;Occasional;Moderate;Healthy;9;Low;Moderate;No
+923F;29;Male;Master;Occasional Smoker;Occasional;High;Moderate;4.6;Low;Low;No
+867H;75;Male;Bachelor;Regular Smoker;Occasional;Moderate;Moderate;7.9;High;High;No
+738R;59;Female;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;6.4;Low;Moderate;No
+245X;74;Female;Bachelor;Non-Smoker;Never;Low;Moderate;5.2;Moderate;Moderate;Yes
+543W;59;Male;High School;Non-Smoker;Never;Moderate;Healthy;6.5;High;High;Yes
+345S;40;Male;High School;Non-Smoker;Occasional;High;Healthy;7;High;Moderate;No
+210Q;20;Male;Master;Non-Smoker;Never;Moderate;Moderate;5.8;Moderate;High;No
+803T;33;Male;Master;Occasional Smoker;Occasional;Moderate;Moderate;6.2;High;Low;No
+301N;44;Male;Bachelor;Occasional Smoker;Never;Low;Moderate;5.8;High;High;No
+117F;25;Female;Bachelor;Non-Smoker;Regular;Low;Moderate;7.3;Low;Low;Yes
+524Q;41;Female;Master;Regular Smoker;Regular;High;Moderate;6.5;High;Moderate;Yes
+34V;60;Female;Master;Regular Smoker;Occasional;Moderate;Healthy;7.1;Moderate;Low;No
+171Z;31;Male;High School;Occasional Smoker;Never;High;Unhealthy;6.3;High;Low;No
+247U;80;Female;High School;Occasional Smoker;Occasional;Moderate;Moderate;8.6;Low;Moderate;No
+773H;76;Male;Bachelor;Regular Smoker;Occasional;High;Unhealthy;6.2;Moderate;High;No
+945A;69;Female;Bachelor;Occasional Smoker;Never;High;Healthy;9;Moderate;Moderate;Yes
+787Z;50;Male;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;6.3;Moderate;Moderate;Yes
+301L;74;Female;Master;Non-Smoker;Never;Low;Moderate;4.8;High;Moderate;No
+935E;47;Female;Master;Regular Smoker;Regular;Moderate;Unhealthy;7.4;Moderate;Moderate;Yes
+379B;26;Male;Bachelor;Occasional Smoker;Never;High;Moderate;7.1;Moderate;Low;No
+800J;51;Male;Master;Occasional Smoker;Never;High;Healthy;7.2;Moderate;Moderate;Yes
+979W;40;Female;Master;Regular Smoker;Regular;Low;Unhealthy;7.5;Low;High;Yes
+433Y;31;Female;Bachelor;Regular Smoker;Occasional;High;Moderate;7.8;Low;High;No
+718M;78;Male;High School;Non-Smoker;Never;Low;Moderate;6.9;Moderate;Moderate;No
+275L;44;Male;Bachelor;Regular Smoker;Never;High;Healthy;9;Low;Moderate;Yes
+397B;42;Female;Bachelor;Occasional Smoker;Occasional;Low;Healthy;8.2;Moderate;High;Yes
+697Q;67;Male;Bachelor;Non-Smoker;Never;High;Unhealthy;6;High;Moderate;Yes
+283O;44;Female;Master;Regular Smoker;Occasional;Low;Moderate;5.1;Moderate;Low;Yes
+476Z;58;Male;Master;Regular Smoker;Regular;High;Unhealthy;7.1;High;High;Yes
+517W;48;Male;High School;Non-Smoker;Occasional;Moderate;Healthy;6.2;Low;High;No
+288P;30;Male;Master;Occasional Smoker;Occasional;High;Moderate;4.9;Low;Low;No
+395T;46;Male;Bachelor;Regular Smoker;Regular;High;Moderate;7.7;Low;Low;No
+85L;57;Male;High School;Regular Smoker;Never;Low;Healthy;6.6;Moderate;High;Yes
+381V;60;Male;High School;Non-Smoker;Occasional;Moderate;Unhealthy;7.4;Low;Moderate;No
+798D;49;Female;High School;Non-Smoker;Regular;Low;Moderate;8.6;Moderate;High;No
+302F;39;Male;Bachelor;Non-Smoker;Occasional;High;Unhealthy;7.6;Moderate;Moderate;No
+630A;37;Male;Bachelor;Non-Smoker;Occasional;Low;Unhealthy;6;Low;Moderate;Yes
+506W;68;Female;Bachelor;Occasional Smoker;Never;Moderate;Healthy;7.5;High;Low;Yes
+701O;60;Male;Bachelor;Regular Smoker;Regular;High;Healthy;4.9;Moderate;Low;Yes
+722U;63;Female;Bachelor;Non-Smoker;Never;Low;Healthy;8.7;High;Low;Yes
+181H;31;Female;Bachelor;Non-Smoker;Never;High;Unhealthy;8.8;Moderate;High;No
+126K;47;Female;Bachelor;Occasional Smoker;Never;High;Moderate;8.1;Moderate;Moderate;No
+732D;57;Female;High School;Non-Smoker;Occasional;Moderate;Moderate;7.6;Moderate;High;No
+198E;22;Male;Master;Non-Smoker;Regular;Low;Healthy;4.5;Low;High;Yes
+888U;70;Male;Master;Regular Smoker;Occasional;Low;Moderate;5;Low;Low;Yes
+961Q;25;Female;High School;Occasional Smoker;Regular;Low;Unhealthy;6.6;High;High;Yes
+451H;38;Male;Bachelor;Occasional Smoker;Regular;Moderate;Healthy;7.7;High;Moderate;Yes
+421H;81;Male;Bachelor;Regular Smoker;Regular;High;Moderate;6.9;Moderate;Low;No
+792I;85;Female;Bachelor;Non-Smoker;Never;High;Unhealthy;6.1;Moderate;High;No
+501M;28;Male;High School;Occasional Smoker;Regular;Moderate;Unhealthy;6.7;Low;High;No
+313C;35;Female;High School;Non-Smoker;Occasional;High;Unhealthy;6.2;Moderate;Low;No
+14R;38;Male;High School;Non-Smoker;Regular;Moderate;Moderate;7.7;High;Low;Yes
+948J;65;Male;High School;Non-Smoker;Occasional;High;Healthy;6.7;Moderate;Moderate;Yes
+871U;46;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Healthy;6.3;Moderate;High;Yes
+359E;54;Female;Bachelor;Non-Smoker;Occasional;High;Healthy;6.2;Moderate;High;No
+543H;60;Female;High School;Regular Smoker;Never;Low;Healthy;5.7;Low;High;No
+465S;41;Male;High School;Non-Smoker;Regular;Low;Moderate;6;Moderate;Low;Yes
+386F;85;Female;High School;Occasional Smoker;Occasional;High;Unhealthy;4.9;Moderate;Low;No
+556T;27;Male;High School;Non-Smoker;Occasional;High;Unhealthy;5.3;High;Moderate;No
+62V;22;Female;High School;Regular Smoker;Occasional;Low;Moderate;7.1;High;High;No
+767Z;43;Female;Master;Occasional Smoker;Regular;Low;Healthy;6.6;High;Moderate;Yes
+200Z;64;Female;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;5.7;Low;Low;Yes
+509D;22;Female;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;5;Moderate;Low;Yes
+871X;23;Female;High School;Non-Smoker;Never;High;Unhealthy;6.7;Moderate;Low;Yes
+249N;34;Female;Master;Non-Smoker;Occasional;Moderate;Moderate;7;High;Low;No
+65F;26;Male;High School;Non-Smoker;Never;Moderate;Healthy;9;Low;Low;No
+723E;51;Male;Bachelor;Occasional Smoker;Never;Low;Unhealthy;7.6;High;Moderate;No
+464F;52;Female;Master;Non-Smoker;Regular;High;Unhealthy;5.5;High;High;Yes
+731S;47;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;7.8;Low;High;Yes
+980X;26;Male;Bachelor;Occasional Smoker;Regular;Moderate;Moderate;5.6;Moderate;Low;No
+986U;38;Female;High School;Regular Smoker;Regular;Moderate;Unhealthy;5.7;Moderate;Moderate;Yes
+591W;52;Female;Master;Non-Smoker;Regular;Low;Unhealthy;5.2;Low;High;No
+930W;64;Male;High School;Non-Smoker;Never;Moderate;Healthy;8;High;High;No
+948R;77;Female;Master;Occasional Smoker;Never;Low;Healthy;7.8;Moderate;Moderate;Yes
+787V;41;Male;High School;Non-Smoker;Occasional;Moderate;Moderate;5.3;Low;Low;No
+458U;49;Male;Master;Regular Smoker;Regular;Moderate;Moderate;6.1;Moderate;Low;Yes
+106V;61;Female;Bachelor;Non-Smoker;Never;High;Moderate;7.8;Low;Low;No
+342C;26;Female;High School;Non-Smoker;Regular;Low;Moderate;7.6;Moderate;Moderate;Yes
+1000J;66;Female;Bachelor;Non-Smoker;Never;Moderate;Moderate;6.8;Moderate;Low;No
+287S;28;Male;High School;Non-Smoker;Never;Moderate;Healthy;9;Moderate;Moderate;No
+881I;59;Male;Master;Non-Smoker;Regular;High;Healthy;6.9;Moderate;High;Yes
+755A;37;Female;Bachelor;Regular Smoker;Regular;Low;Moderate;8.1;Low;High;No
+393J;74;Female;Master;Non-Smoker;Never;Moderate;Healthy;7;High;Moderate;Yes
+279D;64;Male;Master;Regular Smoker;Regular;High;Healthy;6.7;Low;Low;Yes
+94F;26;Female;High School;Regular Smoker;Occasional;Moderate;Unhealthy;6.5;High;Moderate;No
+578U;31;Male;Bachelor;Non-Smoker;Never;Moderate;Moderate;8.4;High;High;Yes
+930H;73;Male;Master;Occasional Smoker;Never;High;Moderate;6.5;High;Low;No
+980H;39;Male;High School;Non-Smoker;Regular;High;Moderate;5.1;Low;Low;No
+562H;46;Female;Master;Regular Smoker;Never;High;Healthy;8.4;High;Low;No
+770K;22;Female;Master;Occasional Smoker;Occasional;High;Moderate;8;High;Moderate;No
+449E;66;Female;High School;Non-Smoker;Never;Low;Healthy;7.8;High;High;No
+144X;20;Female;Bachelor;Regular Smoker;Occasional;Moderate;Moderate;7.5;High;Low;No
+908L;76;Female;Master;Regular Smoker;Occasional;Low;Moderate;6.9;High;Low;Yes
+535H;40;Male;Bachelor;Occasional Smoker;Never;Low;Healthy;7.4;High;Moderate;Yes
+43Y;73;Male;High School;Non-Smoker;Never;Moderate;Healthy;9;Low;Low;No
+218X;55;Female;High School;Occasional Smoker;Regular;Moderate;Healthy;4.6;Low;Moderate;No
+903C;39;Male;Master;Occasional Smoker;Regular;Moderate;Moderate;6;High;Moderate;No
+534P;49;Male;Master;Non-Smoker;Occasional;High;Unhealthy;8.6;Low;High;Yes
+549Q;44;Female;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;5.9;Moderate;Low;Yes
+827B;72;Male;Master;Regular Smoker;Regular;Low;Healthy;4.9;Moderate;High;No
+378H;56;Male;Bachelor;Non-Smoker;Never;Moderate;Unhealthy;6.7;High;High;Yes
+904F;68;Male;Master;Regular Smoker;Regular;High;Moderate;5.1;Moderate;High;No
+897T;83;Male;High School;Regular Smoker;Never;Low;Healthy;6.4;High;High;No
+398E;78;Female;Bachelor;Regular Smoker;Regular;Moderate;Moderate;7.5;Low;Moderate;Yes
+23M;66;Male;Bachelor;Non-Smoker;Regular;High;Moderate;8.8;Low;Low;Yes
+632T;47;Male;Bachelor;Non-Smoker;Regular;High;Healthy;4.5;Low;Low;Yes
+916C;70;Male;High School;Occasional Smoker;Occasional;High;Unhealthy;6.3;Moderate;Moderate;No
+378C;41;Male;Master;Non-Smoker;Never;Low;Healthy;6;High;Moderate;No
+803C;46;Female;High School;Occasional Smoker;Never;Moderate;Healthy;9;Moderate;Low;No
+866O;35;Female;Bachelor;Regular Smoker;Regular;High;Unhealthy;8.5;Low;High;No
+119B;49;Male;Master;Occasional Smoker;Occasional;Moderate;Moderate;5.2;High;Low;Yes
+764Z;20;Female;Bachelor;Regular Smoker;Regular;Moderate;Moderate;8.7;Moderate;High;No
+710U;46;Male;Bachelor;Occasional Smoker;Never;High;Healthy;6.6;High;Moderate;No
+39D;39;Male;Bachelor;Occasional Smoker;Occasional;Low;Unhealthy;7.8;High;Moderate;No
+964N;58;Female;Bachelor;Occasional Smoker;Never;Moderate;Healthy;7.7;High;Low;Yes
+798R;66;Female;High School;Occasional Smoker;Regular;Moderate;Healthy;4.5;Moderate;Low;No
+183A;42;Female;Bachelor;Non-Smoker;Never;High;Healthy;6.4;High;Moderate;Yes
+115O;53;Male;Master;Regular Smoker;Regular;Moderate;Healthy;6.5;Low;Moderate;No
+325G;68;Male;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;4.8;Moderate;Moderate;Yes
+605G;44;Female;Bachelor;Occasional Smoker;Regular;Low;Unhealthy;4.5;Low;Low;Yes
+438F;85;Male;High School;Non-Smoker;Regular;Low;Healthy;5;High;Moderate;No
+600G;83;Female;High School;Regular Smoker;Never;Low;Unhealthy;8.6;Moderate;Moderate;Yes
+755Z;83;Male;Bachelor;Regular Smoker;Occasional;Moderate;Moderate;5.3;Moderate;Low;No
+471U;44;Male;Bachelor;Occasional Smoker;Regular;High;Healthy;8.6;Moderate;Low;Yes
+107J;76;Female;Bachelor;Non-Smoker;Occasional;High;Healthy;8.9;Low;Moderate;Yes
+631O;56;Male;Master;Occasional Smoker;Occasional;Low;Healthy;7;Moderate;Moderate;Yes
+175S;54;Female;Bachelor;Occasional Smoker;Regular;High;Unhealthy;5.3;Low;High;Yes
+96A;47;Female;High School;Occasional Smoker;Occasional;Moderate;Healthy;7.7;Moderate;High;Yes
+876I;56;Female;Bachelor;Non-Smoker;Regular;Low;Unhealthy;7.3;Low;Moderate;No
+917A;84;Male;High School;Occasional Smoker;Regular;High;Unhealthy;8.7;Low;High;No
+684O;73;Female;High School;Regular Smoker;Occasional;High;Unhealthy;8.6;Moderate;High;Yes
+657Z;82;Female;High School;Non-Smoker;Regular;Low;Unhealthy;6.3;High;High;Yes
+489U;32;Male;High School;Non-Smoker;Never;High;Unhealthy;6;High;Low;No
+699E;47;Male;Master;Regular Smoker;Occasional;Moderate;Unhealthy;6.6;Moderate;Moderate;Yes
+170G;67;Female;Bachelor;Occasional Smoker;Regular;Low;Moderate;8.4;Low;High;No
+242K;71;Female;Master;Occasional Smoker;Never;Low;Unhealthy;7;Low;High;Yes
+396A;49;Female;Master;Non-Smoker;Occasional;Low;Unhealthy;7.1;Low;Moderate;Yes
+8W;67;Male;Master;Non-Smoker;Never;Moderate;Unhealthy;7.9;Low;Moderate;Yes
+57V;70;Female;Master;Occasional Smoker;Regular;Moderate;Moderate;6.5;Moderate;High;No
+50R;42;Male;High School;Occasional Smoker;Regular;Moderate;Moderate;7.5;Moderate;Moderate;No
+209O;48;Female;Master;Occasional Smoker;Regular;Low;Unhealthy;6.7;High;High;No
+541H;51;Male;High School;Occasional Smoker;Never;Low;Healthy;6.7;High;High;Yes
+204W;29;Male;Master;Regular Smoker;Occasional;Low;Moderate;7.3;Low;Moderate;No
+153V;37;Male;High School;Occasional Smoker;Never;Low;Moderate;8;Moderate;Moderate;No
+399D;47;Male;Master;Non-Smoker;Regular;Low;Moderate;7.2;Moderate;Moderate;No
+500C;49;Female;Master;Non-Smoker;Regular;High;Healthy;5.1;Low;Moderate;No
+640U;26;Female;Master;Occasional Smoker;Regular;High;Unhealthy;5.1;High;Low;Yes
+780O;55;Male;Master;Regular Smoker;Never;High;Moderate;5.9;Moderate;High;Yes
+179W;63;Female;Bachelor;Regular Smoker;Regular;High;Moderate;4.6;High;Low;Yes
+293U;29;Male;Master;Non-Smoker;Occasional;Moderate;Unhealthy;7.3;Moderate;High;Yes
+299K;60;Male;Master;Occasional Smoker;Regular;High;Moderate;7.2;Low;Moderate;No
+848P;63;Female;Bachelor;Occasional Smoker;Regular;Moderate;Healthy;5.6;Moderate;Low;No
+374V;71;Male;Master;Occasional Smoker;Never;Moderate;Moderate;6;Low;Low;No
+100Z;30;Male;Bachelor;Non-Smoker;Never;Low;Moderate;5.4;Moderate;Moderate;No
+810O;67;Male;High School;Non-Smoker;Regular;Moderate;Healthy;6.8;High;High;Yes
+886Q;37;Male;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;7.9;Low;Moderate;No
+356N;42;Female;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;5;Moderate;Low;No
+641Y;71;Male;High School;Occasional Smoker;Never;Moderate;Moderate;8.9;High;High;Yes
+412B;31;Female;High School;Regular Smoker;Never;Low;Moderate;7.6;High;Moderate;No
+190B;41;Male;Bachelor;Occasional Smoker;Never;Moderate;Moderate;5.9;Moderate;High;No
+681B;81;Female;Master;Regular Smoker;Regular;Moderate;Unhealthy;6.1;Low;High;No
+909M;61;Male;High School;Regular Smoker;Never;Low;Healthy;6.9;Low;Moderate;Yes
+955A;50;Female;Master;Occasional Smoker;Never;Moderate;Unhealthy;7.9;Low;Moderate;No
+5Q;44;Female;Master;Non-Smoker;Regular;Low;Unhealthy;7.8;Moderate;High;Yes
+827L;74;Male;Bachelor;Regular Smoker;Regular;Low;Healthy;7.5;High;Low;Yes
+895V;21;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Unhealthy;5.3;High;Moderate;Yes
+626L;20;Male;High School;Occasional Smoker;Never;Moderate;Moderate;5.2;Moderate;Moderate;No
+965P;44;Male;Master;Regular Smoker;Occasional;Low;Moderate;5.8;High;High;Yes
+200H;24;Male;Bachelor;Regular Smoker;Regular;Low;Moderate;9;Moderate;Moderate;Yes
+1I;35;Female;High School;Occasional Smoker;Never;Low;Healthy;9;Low;Moderate;Yes
+851F;70;Male;Bachelor;Occasional Smoker;Never;High;Unhealthy;6.8;Low;Low;Yes
+695A;41;Female;Master;Occasional Smoker;Occasional;High;Unhealthy;8.8;Low;Moderate;No
+275Z;42;Male;High School;Non-Smoker;Regular;High;Moderate;4.5;High;High;No
+215F;58;Male;Bachelor;Occasional Smoker;Regular;High;Healthy;6.1;Moderate;High;No
+420J;55;Male;High School;Regular Smoker;Never;Moderate;Moderate;6.2;High;Moderate;No
+450V;77;Female;High School;Occasional Smoker;Occasional;Low;Unhealthy;8.9;Moderate;High;No
+139W;26;Male;High School;Regular Smoker;Occasional;Low;Healthy;7.5;Moderate;Moderate;Yes
+186G;82;Female;Bachelor;Non-Smoker;Occasional;High;Moderate;5.5;Moderate;High;Yes
+338D;83;Female;Bachelor;Non-Smoker;Regular;High;Unhealthy;5.8;High;Moderate;No
+583U;48;Female;Master;Non-Smoker;Regular;Moderate;Healthy;6.5;Moderate;Moderate;Yes
+514B;54;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Healthy;5.3;Moderate;High;No
+711H;46;Female;Master;Regular Smoker;Regular;High;Healthy;5.5;High;Moderate;Yes
+77F;68;Male;Master;Regular Smoker;Occasional;Moderate;Unhealthy;8.8;Moderate;Moderate;Yes
+618Q;77;Male;Bachelor;Regular Smoker;Never;High;Healthy;5.8;Moderate;High;No
+650P;62;Female;Bachelor;Non-Smoker;Occasional;Moderate;Unhealthy;6.9;Low;Low;Yes
+929E;64;Female;Bachelor;Regular Smoker;Regular;Moderate;Moderate;8.9;Moderate;Low;Yes
+561I;45;Female;Bachelor;Regular Smoker;Never;High;Moderate;5.1;Low;Moderate;Yes
+448Y;48;Male;Bachelor;Occasional Smoker;Never;Low;Unhealthy;6.6;High;Moderate;Yes
+248D;54;Male;Master;Regular Smoker;Occasional;Moderate;Unhealthy;6;High;High;Yes
+309A;43;Female;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;5.1;High;Moderate;No
+637T;20;Female;Bachelor;Non-Smoker;Occasional;Low;Moderate;7.7;Low;Low;No
+551T;26;Male;High School;Occasional Smoker;Occasional;High;Moderate;8.4;Moderate;Low;No
+805E;25;Female;Bachelor;Non-Smoker;Regular;Low;Moderate;5.4;Low;Moderate;Yes
+57S;58;Female;Master;Non-Smoker;Occasional;High;Healthy;6.4;Moderate;High;No
+562Z;39;Male;High School;Regular Smoker;Occasional;High;Unhealthy;8.1;Low;High;No
+491V;63;Female;Master;Non-Smoker;Occasional;High;Healthy;9;High;High;Yes
+292Y;28;Male;Master;Non-Smoker;Never;High;Unhealthy;4.8;High;Low;Yes
+47Q;82;Female;High School;Occasional Smoker;Regular;Moderate;Healthy;4.8;Moderate;Moderate;Yes
+865E;64;Female;Master;Regular Smoker;Occasional;Low;Moderate;8.5;High;Low;Yes
+511B;56;Male;Master;Non-Smoker;Regular;High;Healthy;6;High;Low;Yes
+777D;38;Male;Bachelor;Occasional Smoker;Regular;Moderate;Moderate;5.1;Low;High;No
+17U;80;Male;Master;Occasional Smoker;Never;Moderate;Healthy;7.9;Moderate;Low;No
+417Y;39;Female;High School;Non-Smoker;Occasional;High;Healthy;6.5;Moderate;Low;Yes
+209K;27;Male;Master;Regular Smoker;Never;Moderate;Healthy;9;Moderate;Moderate;Yes
+137P;58;Male;Master;Regular Smoker;Never;Low;Healthy;8.2;Moderate;Low;No
+942X;82;Male;Master;Non-Smoker;Regular;High;Healthy;5.9;High;High;No
+968P;56;Male;Master;Occasional Smoker;Never;Moderate;Healthy;9;High;High;Yes
+516C;35;Female;Master;Regular Smoker;Regular;High;Healthy;5.1;Low;Low;No
+891X;79;Female;Master;Regular Smoker;Regular;High;Unhealthy;6.7;Moderate;Moderate;No
+7G;74;Female;High School;Regular Smoker;Occasional;Low;Unhealthy;7.1;High;High;No
+773U;28;Male;High School;Regular Smoker;Regular;High;Moderate;4.5;High;Moderate;No
+395L;56;Female;High School;Occasional Smoker;Occasional;Moderate;Unhealthy;6.3;Moderate;High;No
+489C;84;Male;Master;Non-Smoker;Regular;Moderate;Unhealthy;6.1;Moderate;Moderate;No
+51S;59;Female;Master;Regular Smoker;Never;Moderate;Unhealthy;8.7;High;Low;Yes
+634K;39;Female;High School;Non-Smoker;Never;Low;Unhealthy;4.6;Low;High;No
+624H;39;Male;High School;Occasional Smoker;Never;Low;Moderate;7;Moderate;High;No
+991L;26;Female;High School;Regular Smoker;Regular;Moderate;Unhealthy;9;High;High;No
+469X;78;Male;High School;Non-Smoker;Occasional;Low;Moderate;7.1;High;Moderate;No
+298X;41;Female;High School;Regular Smoker;Never;High;Unhealthy;8.9;High;Low;Yes
+90T;39;Male;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;5.1;Low;Low;Yes
+1000V;41;Male;Master;Regular Smoker;Regular;Low;Unhealthy;5.6;High;Low;No
+876N;39;Male;High School;Regular Smoker;Regular;High;Moderate;8.5;High;Moderate;Yes
+324M;70;Female;High School;Non-Smoker;Occasional;Low;Unhealthy;8;Low;Low;Yes
+590Y;60;Female;High School;Non-Smoker;Never;High;Unhealthy;8.3;High;Low;Yes
+553R;66;Female;Bachelor;Non-Smoker;Never;Low;Healthy;6.2;High;Low;No
+101Q;49;Female;High School;Occasional Smoker;Occasional;Moderate;Healthy;7.5;Low;High;Yes
+434T;33;Male;Bachelor;Non-Smoker;Occasional;Moderate;Moderate;6.7;High;High;Yes
+645N;81;Female;Master;Regular Smoker;Never;Low;Unhealthy;8.5;Low;High;Yes
+84M;74;Male;Bachelor;Non-Smoker;Regular;High;Unhealthy;7.1;Low;Low;No
+607N;33;Female;Bachelor;Regular Smoker;Occasional;High;Healthy;8.3;High;Low;No
+467C;80;Female;High School;Regular Smoker;Occasional;Low;Healthy;6.4;Moderate;Low;Yes
+333K;30;Male;Master;Regular Smoker;Regular;Low;Moderate;9;High;Low;Yes
+857C;51;Female;High School;Regular Smoker;Regular;Moderate;Healthy;6.9;High;Moderate;No
+103Z;25;Female;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;6.5;Low;Moderate;Yes
+733B;77;Female;Master;Regular Smoker;Never;High;Moderate;8;Moderate;Low;Yes
+110J;38;Female;Master;Regular Smoker;Never;High;Unhealthy;7.1;High;High;No
+902F;67;Female;High School;Occasional Smoker;Never;Low;Unhealthy;4.8;Moderate;Low;No
+13I;30;Female;High School;Non-Smoker;Occasional;Moderate;Healthy;5.8;Moderate;High;No
+238I;68;Female;Bachelor;Non-Smoker;Never;Low;Healthy;6.6;Moderate;High;No
+112C;25;Female;High School;Non-Smoker;Regular;High;Moderate;8.9;Moderate;Moderate;No
+17X;42;Male;High School;Regular Smoker;Occasional;Low;Unhealthy;8.2;Moderate;Low;No
+135D;60;Female;Master;Occasional Smoker;Regular;High;Unhealthy;8.1;Moderate;High;No
+255Q;76;Male;Master;Regular Smoker;Regular;High;Unhealthy;5.8;Low;Moderate;No
+90K;60;Female;Bachelor;Non-Smoker;Occasional;Moderate;Moderate;6;Moderate;High;No
+910H;39;Female;Bachelor;Non-Smoker;Regular;High;Unhealthy;6.1;High;High;No
+680K;81;Female;Bachelor;Non-Smoker;Never;Moderate;Moderate;8.6;Moderate;Moderate;Yes
+852D;59;Male;Master;Regular Smoker;Occasional;Low;Healthy;6.7;Low;High;Yes
+495D;30;Male;Master;Regular Smoker;Occasional;Low;Unhealthy;6.3;Low;Moderate;Yes
+496S;77;Male;Master;Non-Smoker;Regular;Moderate;Unhealthy;5.8;High;High;Yes
+593P;82;Female;High School;Occasional Smoker;Occasional;High;Healthy;8.2;Low;Low;No
+219X;46;Female;Bachelor;Non-Smoker;Never;High;Healthy;9;High;High;Yes
+117E;80;Female;High School;Occasional Smoker;Never;Low;Unhealthy;8.6;Low;High;Yes
+582J;69;Female;High School;Occasional Smoker;Never;High;Moderate;5.7;High;High;Yes
+870F;69;Female;Bachelor;Regular Smoker;Never;High;Moderate;6.5;Low;Low;Yes
+708G;35;Male;Master;Regular Smoker;Occasional;Moderate;Moderate;7.9;High;Moderate;No
+98O;62;Female;High School;Non-Smoker;Occasional;Low;Moderate;6.6;High;Moderate;No
+519E;77;Female;High School;Non-Smoker;Regular;High;Healthy;4.5;High;High;Yes
+206T;80;Female;Master;Occasional Smoker;Regular;Moderate;Healthy;5;High;Moderate;Yes
+853H;39;Female;High School;Occasional Smoker;Occasional;High;Healthy;8.7;Low;Moderate;No
+995R;56;Female;Master;Non-Smoker;Occasional;Low;Unhealthy;7.8;Moderate;Low;Yes
+961B;72;Male;Master;Regular Smoker;Occasional;High;Moderate;6.9;Low;High;No
+735D;47;Female;Bachelor;Occasional Smoker;Never;High;Unhealthy;5.7;High;High;No
+613E;32;Female;High School;Non-Smoker;Regular;High;Unhealthy;8.5;High;High;No
+333W;38;Male;Bachelor;Occasional Smoker;Regular;Moderate;Unhealthy;4.6;Low;Moderate;No
+182K;35;Male;Master;Occasional Smoker;Never;Low;Moderate;8.7;Moderate;Moderate;Yes
+485X;77;Male;Bachelor;Regular Smoker;Occasional;High;Healthy;5.4;Moderate;Moderate;No
+700C;42;Male;Master;Non-Smoker;Occasional;Low;Unhealthy;6.2;High;Moderate;Yes
+735V;49;Male;Bachelor;Non-Smoker;Regular;Moderate;Unhealthy;6.2;High;Moderate;Yes
+903T;49;Female;Bachelor;Regular Smoker;Regular;High;Moderate;8.4;High;Low;Yes
+944K;79;Female;Master;Occasional Smoker;Never;Low;Healthy;9;Moderate;Moderate;Yes
+390G;66;Male;Bachelor;Occasional Smoker;Never;Moderate;Healthy;6.8;High;High;No
+887V;39;Female;Bachelor;Non-Smoker;Never;High;Moderate;7.9;Moderate;Low;No
+890G;33;Male;Bachelor;Regular Smoker;Occasional;Low;Moderate;6.7;Low;Moderate;No
+534U;41;Female;High School;Regular Smoker;Occasional;Moderate;Moderate;8.8;Low;Low;No
+175U;56;Male;High School;Occasional Smoker;Regular;High;Moderate;5.4;High;Moderate;No
+607A;45;Male;High School;Occasional Smoker;Regular;Moderate;Healthy;4.5;High;Low;No
+556O;25;Male;Bachelor;Occasional Smoker;Occasional;High;Unhealthy;8;High;High;No
+544K;73;Female;High School;Occasional Smoker;Regular;High;Moderate;8.1;Moderate;Moderate;Yes
+867W;76;Male;High School;Occasional Smoker;Never;Moderate;Moderate;7;Moderate;High;Yes
+545S;70;Female;High School;Occasional Smoker;Never;Moderate;Healthy;9;Moderate;High;No
+292W;84;Female;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;5.3;Low;High;Yes
+697C;43;Female;High School;Non-Smoker;Occasional;Moderate;Unhealthy;8.2;High;Low;No
+692G;59;Male;Bachelor;Regular Smoker;Never;Moderate;Moderate;5.2;Moderate;High;No
+37K;64;Female;Master;Non-Smoker;Never;Low;Moderate;8.7;Moderate;High;Yes
+646L;79;Female;Bachelor;Non-Smoker;Regular;Moderate;Healthy;6.8;Low;Low;Yes
+784P;73;Male;Bachelor;Occasional Smoker;Regular;High;Unhealthy;7.2;Moderate;Low;Yes
+101N;44;Male;Master;Regular Smoker;Regular;Low;Unhealthy;6.9;High;Moderate;No
+382Y;33;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Moderate;5.7;Low;Moderate;No
+843D;64;Male;High School;Non-Smoker;Occasional;High;Healthy;7.8;High;Low;Yes
+148I;62;Female;High School;Non-Smoker;Never;Moderate;Healthy;8.1;High;Moderate;No
+110N;47;Male;High School;Occasional Smoker;Never;Moderate;Healthy;6.8;Moderate;Moderate;Yes
+979L;79;Female;Bachelor;Non-Smoker;Regular;Moderate;Unhealthy;6.4;High;High;No
+293C;51;Female;High School;Regular Smoker;Never;High;Healthy;7.5;Low;Low;Yes
+89Q;59;Female;High School;Regular Smoker;Regular;High;Moderate;5.8;High;Moderate;Yes
+724V;81;Female;Bachelor;Occasional Smoker;Regular;Moderate;Unhealthy;5.6;Moderate;Low;Yes
+58D;73;Male;Bachelor;Non-Smoker;Regular;Low;Moderate;7.1;Low;Moderate;No
+210J;34;Female;High School;Regular Smoker;Occasional;Moderate;Moderate;6.8;High;High;Yes
+467F;27;Female;Master;Occasional Smoker;Regular;Moderate;Unhealthy;6.4;Low;Low;No
+462Z;42;Male;Master;Occasional Smoker;Regular;Moderate;Healthy;6.3;Moderate;High;No
+36Y;57;Male;Bachelor;Non-Smoker;Occasional;Low;Moderate;5.2;High;Moderate;Yes
+628I;49;Male;High School;Occasional Smoker;Regular;Low;Unhealthy;7.7;Moderate;High;No
+473Y;65;Male;High School;Occasional Smoker;Regular;High;Unhealthy;7.9;High;High;No
+704B;46;Female;High School;Non-Smoker;Never;High;Healthy;5.1;Low;Low;Yes
+87L;46;Male;Master;Regular Smoker;Never;Low;Healthy;8.6;Moderate;Low;Yes
+586X;31;Male;High School;Regular Smoker;Occasional;Low;Unhealthy;5.7;Moderate;High;Yes
+731D;34;Male;Bachelor;Non-Smoker;Never;High;Moderate;8.9;Low;High;Yes
+130W;71;Female;Bachelor;Regular Smoker;Never;High;Moderate;8.1;High;Low;No
+957K;61;Male;High School;Regular Smoker;Regular;High;Healthy;5.6;High;High;Yes
+370K;20;Female;High School;Occasional Smoker;Never;Low;Moderate;5.2;High;High;No
+101W;34;Male;High School;Non-Smoker;Regular;High;Healthy;6;Moderate;Low;No
+847H;83;Male;High School;Regular Smoker;Occasional;High;Unhealthy;5.4;Low;Moderate;No
+541B;34;Female;Master;Occasional Smoker;Never;Low;Moderate;4.7;High;Low;Yes
+29C;58;Female;Master;Non-Smoker;Never;High;Unhealthy;8.6;Low;Moderate;Yes
+869U;28;Male;Bachelor;Non-Smoker;Occasional;Moderate;Moderate;5.3;Low;Moderate;Yes
+873L;36;Male;Bachelor;Occasional Smoker;Never;High;Healthy;7.6;High;Moderate;No
+33T;38;Male;Bachelor;Regular Smoker;Occasional;Low;Unhealthy;8.7;Moderate;Low;No
+166H;35;Female;Master;Non-Smoker;Regular;High;Unhealthy;7;Low;Moderate;No
+206N;40;Female;Master;Non-Smoker;Occasional;Moderate;Moderate;6.4;High;Low;Yes
+566M;50;Male;Bachelor;Regular Smoker;Never;Moderate;Healthy;9;High;Moderate;Yes
+282A;24;Female;Master;Occasional Smoker;Occasional;High;Moderate;6.6;Low;Moderate;Yes
+640B;75;Female;Master;Non-Smoker;Never;Low;Healthy;8.3;High;Low;No
+975U;21;Female;Master;Non-Smoker;Regular;High;Healthy;7.4;Low;Low;No
+950D;36;Male;Bachelor;Regular Smoker;Never;High;Healthy;7.9;Moderate;Low;Yes
+291T;56;Male;High School;Occasional Smoker;Regular;High;Healthy;7.2;High;High;No
+824R;78;Male;Bachelor;Non-Smoker;Regular;Moderate;Moderate;6.2;High;High;Yes
+698A;26;Male;Bachelor;Occasional Smoker;Regular;High;Healthy;7.2;Low;High;Yes
+575D;31;Female;High School;Non-Smoker;Regular;Moderate;Moderate;8;Low;High;No
+617U;38;Female;Bachelor;Occasional Smoker;Occasional;Low;Moderate;4.8;High;Low;No
+109L;28;Female;Bachelor;Regular Smoker;Occasional;High;Healthy;7.4;Low;Moderate;Yes
+586D;58;Male;Bachelor;Occasional Smoker;Never;Low;Moderate;5.5;High;Moderate;Yes
+586S;49;Female;Bachelor;Regular Smoker;Occasional;Moderate;Unhealthy;6.8;High;High;No
+768E;32;Female;High School;Regular Smoker;Occasional;High;Healthy;9;High;High;No
+168B;53;Female;High School;Occasional Smoker;Regular;Low;Moderate;8.5;Low;Low;Yes
+416W;60;Male;Master;Occasional Smoker;Occasional;Moderate;Moderate;5.3;High;High;No
+518A;58;Male;Bachelor;Regular Smoker;Occasional;High;Unhealthy;5.2;Moderate;Moderate;No
+778C;65;Female;Bachelor;Non-Smoker;Never;Moderate;Healthy;9;Low;Low;No
+82X;38;Male;High School;Non-Smoker;Occasional;High;Unhealthy;6.1;Moderate;Low;Yes
+360L;39;Female;Master;Occasional Smoker;Never;High;Moderate;6.5;Low;Low;No
+314Y;82;Female;Bachelor;Occasional Smoker;Never;Low;Healthy;7.7;Low;High;No
+390U;75;Female;Master;Non-Smoker;Regular;High;Healthy;4.8;High;High;Yes
+361Z;52;Female;Bachelor;Regular Smoker;Never;High;Unhealthy;6.5;Low;High;Yes
+1000S;29;Female;Bachelor;Non-Smoker;Regular;Moderate;Healthy;4.5;Low;High;No
+859R;31;Female;Bachelor;Non-Smoker;Regular;High;Moderate;8.7;Moderate;Low;Yes
+608I;22;Male;Bachelor;Regular Smoker;Never;Low;Unhealthy;7.1;Moderate;Moderate;Yes
+551H;85;Female;Bachelor;Regular Smoker;Regular;High;Healthy;7.7;Moderate;Low;Yes
+342S;52;Male;Bachelor;Regular Smoker;Occasional;High;Healthy;6;Moderate;High;No
+791N;60;Female;Master;Non-Smoker;Occasional;High;Healthy;9;Moderate;Low;No
+636L;48;Female;Bachelor;Regular Smoker;Occasional;Moderate;Healthy;8.2;Moderate;Moderate;No
+276Q;46;Male;Bachelor;Regular Smoker;Never;Moderate;Unhealthy;6.6;Low;Moderate;Yes
+354F;68;Male;Bachelor;Regular Smoker;Regular;High;Healthy;8;High;High;No
+946Q;22;Female;Master;Occasional Smoker;Never;High;Healthy;9;High;High;No
+820K;44;Female;Master;Regular Smoker;Regular;Low;Moderate;6.5;High;High;Yes
+222I;75;Female;Master;Occasional Smoker;Regular;Moderate;Healthy;6.7;Low;Moderate;No
+271X;40;Female;Bachelor;Occasional Smoker;Regular;Moderate;Unhealthy;7;High;High;Yes
+825F;38;Male;Master;Occasional Smoker;Never;High;Healthy;8.5;Moderate;Low;No
+647M;37;Female;Bachelor;Occasional Smoker;Occasional;Moderate;Healthy;6;Moderate;Moderate;Yes
+397N;64;Male;Master;Regular Smoker;Never;High;Moderate;7.6;High;High;No
+995U;55;Male;High School;Occasional Smoker;Regular;Low;Unhealthy;5;High;Low;No
+535D;21;Female;Master;Occasional Smoker;Regular;High;Healthy;7.5;High;Low;No
+319Y;24;Male;Master;Regular Smoker;Never;Moderate;Healthy;7.6;Moderate;Moderate;Yes
+329N;34;Female;Master;Regular Smoker;Never;Low;Healthy;8.1;High;Low;Yes
+612H;23;Female;Bachelor;Non-Smoker;Occasional;Low;Moderate;7.3;Low;Low;Yes
+272O;53;Male;Bachelor;Non-Smoker;Never;Moderate;Moderate;8.9;High;Low;No
+611K;69;Male;Master;Regular Smoker;Never;Moderate;Moderate;5.6;High;Moderate;Yes
+427M;35;Male;Bachelor;Regular Smoker;Regular;Moderate;Healthy;8.4;Moderate;High;No
+468R;63;Female;Master;Regular Smoker;Regular;Moderate;Healthy;7;Low;Low;Yes
+952S;74;Male;High School;Non-Smoker;Never;Moderate;Unhealthy;5.2;Low;Low;No
+484Q;57;Female;Bachelor;Non-Smoker;Regular;Moderate;Moderate;7.5;Moderate;Moderate;Yes
+590L;31;Female;High School;Non-Smoker;Never;Moderate;Moderate;4.5;Moderate;Low;Yes
+130S;20;Male;Bachelor;Regular Smoker;Occasional;Low;Moderate;6.8;High;High;No
+442R;85;Female;Master;Non-Smoker;Occasional;High;Unhealthy;7.1;Moderate;Low;Yes
+433X;65;Male;Master;Occasional Smoker;Regular;Moderate;Healthy;5.3;Low;Low;Yes
+286D;62;Male;Bachelor;Non-Smoker;Occasional;High;Healthy;8;Low;Moderate;No
+116R;67;Female;Master;Non-Smoker;Occasional;High;Healthy;5.6;Low;Moderate;Yes

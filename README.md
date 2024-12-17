@@ -20,8 +20,6 @@ Note: this dataset is synthetic , just for practising Analysis skills.
 3. Bivariate Analysis
 4. Multivariate Analysis
 
-## Additional Resources
-Read the article for a deeper understanding: [Health Behavior Dataset Analysis using Python](https://www.linkedin.com/pulse/health-behavior-dataset-analysis-using-python-nouf-almutairi-p1moe/)
 
 ## Contact Information
 Feel free to contact [Nouf Almutairi](https://www.linkedin.com/in/noufalmutairih1/)
